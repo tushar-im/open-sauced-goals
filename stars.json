@@ -1,75 +1,87 @@
 [
   {
+    "full_name": "xonsh/xonsh",
+    "stargazers_count": 6535,
+    "open_issues_count": 250,
+    "forks_count": 589
+  },
+  {
+    "full_name": "Fizzadar/pyinfra",
+    "stargazers_count": 2029,
+    "open_issues_count": 127,
+    "forks_count": 292
+  },
+  {
     "full_name": "ethereum/web3.py",
-    "stargazers_count": 3790,
+    "stargazers_count": 3801,
     "open_issues_count": 228,
-    "forks_count": 1202
+    "forks_count": 1205
   },
   {
     "full_name": "learning-zone/nodejs-interview-questions",
-    "stargazers_count": 2323,
+    "stargazers_count": 2334,
     "open_issues_count": 0,
-    "forks_count": 804
+    "forks_count": 806
   },
   {
     "full_name": "vitejs/vite",
-    "stargazers_count": 48738,
-    "open_issues_count": 655,
-    "forks_count": 4139
+    "stargazers_count": 48872,
+    "open_issues_count": 668,
+    "forks_count": 4158
   },
   {
     "full_name": "remoteintech/remote-jobs",
-    "stargazers_count": 22677,
-    "open_issues_count": 30,
-    "forks_count": 2401
+    "stargazers_count": 22741,
+    "open_issues_count": 38,
+    "forks_count": 2412
   },
   {
     "full_name": "gothinkster/realworld",
-    "stargazers_count": 69735,
+    "stargazers_count": 69762,
     "open_issues_count": 54,
-    "forks_count": 6524
+    "forks_count": 6528
   },
   {
     "full_name": "wagtail/wagtail",
-    "stargazers_count": 13363,
-    "open_issues_count": 997,
-    "forks_count": 2862
+    "stargazers_count": 13383,
+    "open_issues_count": 1001,
+    "forks_count": 2869
   },
   {
     "full_name": "django-oscar/django-oscar",
-    "stargazers_count": 5494,
+    "stargazers_count": 5498,
     "open_issues_count": 165,
-    "forks_count": 2007
+    "forks_count": 2010
   },
   {
     "full_name": "stephenmcd/mezzanine",
     "stargazers_count": 4520,
     "open_issues_count": 52,
-    "forks_count": 1603
+    "forks_count": 1605
   },
   {
     "full_name": "VSCodium/vscodium",
-    "stargazers_count": 18117,
-    "open_issues_count": 118,
-    "forks_count": 756
+    "stargazers_count": 18142,
+    "open_issues_count": 119,
+    "forks_count": 757
   },
   {
     "full_name": "BuilderIO/qwik",
-    "stargazers_count": 12312,
-    "open_issues_count": 184,
-    "forks_count": 495
+    "stargazers_count": 12532,
+    "open_issues_count": 198,
+    "forks_count": 502
   },
   {
     "full_name": "rajucs/Book-For-Programmers",
-    "stargazers_count": 233,
+    "stargazers_count": 238,
     "open_issues_count": 0,
     "forks_count": 70
   },
   {
     "full_name": "wesbos/JavaScript30",
-    "stargazers_count": 21532,
+    "stargazers_count": 21563,
     "open_issues_count": 34,
-    "forks_count": 28055
+    "forks_count": 28136
   },
   {
     "full_name": "abhireddy96/Cracking-the-Coding-Interview",
@@ -79,57 +91,57 @@
   },
   {
     "full_name": "compose-spec/compose-spec",
-    "stargazers_count": 1461,
-    "open_issues_count": 85,
-    "forks_count": 642
+    "stargazers_count": 1469,
+    "open_issues_count": 86,
+    "forks_count": 645
   },
   {
     "full_name": "futurice/terraform-examples",
-    "stargazers_count": 494,
+    "stargazers_count": 495,
     "open_issues_count": 11,
     "forks_count": 331
   },
   {
     "full_name": "DonDebonair/slack-machine",
-    "stargazers_count": 684,
+    "stargazers_count": 685,
     "open_issues_count": 9,
     "forks_count": 43
   },
   {
     "full_name": "digitallyinduced/ihp",
-    "stargazers_count": 3657,
-    "open_issues_count": 190,
-    "forks_count": 157
+    "stargazers_count": 3690,
+    "open_issues_count": 188,
+    "forks_count": 159
   },
   {
     "full_name": "abhisheknaiidu/awesome-github-profile-readme",
-    "stargazers_count": 15005,
-    "open_issues_count": 379,
-    "forks_count": 2650
+    "stargazers_count": 15048,
+    "open_issues_count": 381,
+    "forks_count": 2657
   },
   {
     "full_name": "kamranahmedse/design-patterns-for-humans",
-    "stargazers_count": 35239,
+    "stargazers_count": 35270,
     "open_issues_count": 16,
-    "forks_count": 4421
+    "forks_count": 4422
   },
   {
     "full_name": "collabnix/terraform",
-    "stargazers_count": 183,
+    "stargazers_count": 184,
     "open_issues_count": 2,
-    "forks_count": 227
+    "forks_count": 228
   },
   {
     "full_name": "apify/crawlee",
-    "stargazers_count": 6787,
-    "open_issues_count": 66,
-    "forks_count": 319
+    "stargazers_count": 6804,
+    "open_issues_count": 74,
+    "forks_count": 321
   },
   {
     "full_name": "creativetimofficial/impact-design-system",
     "stargazers_count": 112,
     "open_issues_count": 11,
-    "forks_count": 49
+    "forks_count": 50
   },
   {
     "full_name": "watevadafa/resume",
@@ -139,44 +151,32 @@
   },
   {
     "full_name": "withastro/astro",
-    "stargazers_count": 21565,
+    "stargazers_count": 21670,
     "open_issues_count": 100,
-    "forks_count": 1009
+    "forks_count": 1011
   },
   {
     "full_name": "MikeMcQuaid/strap",
-    "stargazers_count": 1974,
+    "stargazers_count": 1975,
     "open_issues_count": 0,
     "forks_count": 232
   },
   {
     "full_name": "Eugeny/tabby",
-    "stargazers_count": 39398,
-    "open_issues_count": 1101,
-    "forks_count": 2407
+    "stargazers_count": 39556,
+    "open_issues_count": 1102,
+    "forks_count": 2415
   },
   {
     "full_name": "moyix/fauxpilot",
-    "stargazers_count": 6803,
+    "stargazers_count": 6826,
     "open_issues_count": 34,
-    "forks_count": 278
+    "forks_count": 280
   },
   {
     "full_name": "charmbracelet/gum",
-    "stargazers_count": 10857,
-    "open_issues_count": 37,
-    "forks_count": 200
-  },
-  {
-    "full_name": "carbon-language/carbon-lang",
-    "stargazers_count": 28364,
-    "open_issues_count": 202,
-    "forks_count": 1182
-  },
-  {
-    "full_name": "wilsonmar/mac-setup",
-    "stargazers_count": 109,
-    "open_issues_count": 2,
-    "forks_count": 50
+    "stargazers_count": 10877,
+    "open_issues_count": 40,
+    "forks_count": 201
   }
 ]
