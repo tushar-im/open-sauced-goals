@@ -1,141 +1,153 @@
 [
   {
+    "full_name": "trpc/trpc",
+    "stargazers_count": 14910,
+    "open_issues_count": 76,
+    "forks_count": 467
+  },
+  {
+    "full_name": "pulumi/pulumi",
+    "stargazers_count": 14162,
+    "open_issues_count": 1559,
+    "forks_count": 796
+  },
+  {
     "full_name": "milanm/DevOps-Roadmap",
-    "stargazers_count": 1837,
-    "open_issues_count": 1,
-    "forks_count": 95
+    "stargazers_count": 2885,
+    "open_issues_count": 2,
+    "forks_count": 154
   },
   {
     "full_name": "mastodon/mastodon",
-    "stargazers_count": 31192,
-    "open_issues_count": 2446,
-    "forks_count": 4793
+    "stargazers_count": 32650,
+    "open_issues_count": 2616,
+    "forks_count": 4939
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 95674,
-    "open_issues_count": 1497,
-    "forks_count": 20980
+    "stargazers_count": 95921,
+    "open_issues_count": 1523,
+    "forks_count": 21047
   },
   {
     "full_name": "kwebio/kweb-core",
-    "stargazers_count": 797,
-    "open_issues_count": 15,
-    "forks_count": 48
+    "stargazers_count": 798,
+    "open_issues_count": 16,
+    "forks_count": 49
   },
   {
     "full_name": "charmbracelet/vhs",
-    "stargazers_count": 6653,
-    "open_issues_count": 30,
-    "forks_count": 82
+    "stargazers_count": 7070,
+    "open_issues_count": 29,
+    "forks_count": 91
   },
   {
     "full_name": "resume/resume.github.com",
-    "stargazers_count": 58709,
+    "stargazers_count": 58728,
     "open_issues_count": 60,
     "forks_count": 1377
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 356538,
-    "open_issues_count": 184,
-    "forks_count": 30349
+    "stargazers_count": 356667,
+    "open_issues_count": 182,
+    "forks_count": 30357
   },
   {
     "full_name": "open-sauced/hot",
     "stargazers_count": 185,
-    "open_issues_count": 32,
+    "open_issues_count": 31,
     "forks_count": 70
   },
   {
     "full_name": "microsoft/api-guidelines",
-    "stargazers_count": 20205,
-    "open_issues_count": 111,
-    "forks_count": 2469
+    "stargazers_count": 20213,
+    "open_issues_count": 113,
+    "forks_count": 2472
   },
   {
     "full_name": "xonsh/xonsh",
-    "stargazers_count": 6562,
-    "open_issues_count": 250,
+    "stargazers_count": 6572,
+    "open_issues_count": 251,
     "forks_count": 590
   },
   {
     "full_name": "Fizzadar/pyinfra",
-    "stargazers_count": 2068,
+    "stargazers_count": 2077,
     "open_issues_count": 115,
-    "forks_count": 293
+    "forks_count": 294
   },
   {
     "full_name": "ethereum/web3.py",
-    "stargazers_count": 3822,
-    "open_issues_count": 228,
+    "stargazers_count": 3834,
+    "open_issues_count": 227,
     "forks_count": 1208
   },
   {
     "full_name": "learning-zone/nodejs-interview-questions",
-    "stargazers_count": 2356,
+    "stargazers_count": 2363,
     "open_issues_count": 0,
-    "forks_count": 814
+    "forks_count": 819
   },
   {
     "full_name": "vitejs/vite",
-    "stargazers_count": 49122,
+    "stargazers_count": 49224,
     "open_issues_count": 670,
-    "forks_count": 4195
+    "forks_count": 4214
   },
   {
     "full_name": "remoteintech/remote-jobs",
-    "stargazers_count": 22887,
-    "open_issues_count": 25,
-    "forks_count": 2426
+    "stargazers_count": 22973,
+    "open_issues_count": 26,
+    "forks_count": 2429
   },
   {
     "full_name": "gothinkster/realworld",
-    "stargazers_count": 69827,
-    "open_issues_count": 54,
-    "forks_count": 6531
+    "stargazers_count": 69858,
+    "open_issues_count": 56,
+    "forks_count": 6533
   },
   {
     "full_name": "wagtail/wagtail",
-    "stargazers_count": 13416,
-    "open_issues_count": 1036,
-    "forks_count": 2880
+    "stargazers_count": 13439,
+    "open_issues_count": 1023,
+    "forks_count": 2882
   },
   {
     "full_name": "django-oscar/django-oscar",
-    "stargazers_count": 5505,
-    "open_issues_count": 167,
-    "forks_count": 2013
+    "stargazers_count": 5510,
+    "open_issues_count": 168,
+    "forks_count": 2015
   },
   {
     "full_name": "stephenmcd/mezzanine",
-    "stargazers_count": 4520,
+    "stargazers_count": 4522,
     "open_issues_count": 52,
-    "forks_count": 1609
+    "forks_count": 1610
   },
   {
     "full_name": "VSCodium/vscodium",
-    "stargazers_count": 18204,
-    "open_issues_count": 121,
-    "forks_count": 760
+    "stargazers_count": 18237,
+    "open_issues_count": 99,
+    "forks_count": 761
   },
   {
     "full_name": "BuilderIO/qwik",
-    "stargazers_count": 12828,
-    "open_issues_count": 194,
-    "forks_count": 525
+    "stargazers_count": 12991,
+    "open_issues_count": 201,
+    "forks_count": 535
   },
   {
     "full_name": "rajucs/Book-For-Programmers",
-    "stargazers_count": 251,
+    "stargazers_count": 262,
     "open_issues_count": 0,
-    "forks_count": 72
+    "forks_count": 73
   },
   {
     "full_name": "wesbos/JavaScript30",
-    "stargazers_count": 21631,
-    "open_issues_count": 36,
-    "forks_count": 28286
+    "stargazers_count": 21673,
+    "open_issues_count": 35,
+    "forks_count": 28381
   },
   {
     "full_name": "abhireddy96/Cracking-the-Coding-Interview",
@@ -145,38 +157,26 @@
   },
   {
     "full_name": "compose-spec/compose-spec",
-    "stargazers_count": 1478,
+    "stargazers_count": 1483,
     "open_issues_count": 86,
-    "forks_count": 650
+    "forks_count": 652
   },
   {
     "full_name": "futurice/terraform-examples",
     "stargazers_count": 501,
     "open_issues_count": 10,
-    "forks_count": 332
+    "forks_count": 334
   },
   {
     "full_name": "DonDebonair/slack-machine",
-    "stargazers_count": 689,
+    "stargazers_count": 690,
     "open_issues_count": 8,
     "forks_count": 43
   },
   {
     "full_name": "digitallyinduced/ihp",
-    "stargazers_count": 3710,
+    "stargazers_count": 3719,
     "open_issues_count": 188,
-    "forks_count": 160
-  },
-  {
-    "full_name": "abhisheknaiidu/awesome-github-profile-readme",
-    "stargazers_count": 15147,
-    "open_issues_count": 384,
-    "forks_count": 2675
-  },
-  {
-    "full_name": "kamranahmedse/design-patterns-for-humans",
-    "stargazers_count": 35339,
-    "open_issues_count": 16,
-    "forks_count": 4426
+    "forks_count": 159
   }
 ]
