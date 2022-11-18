@@ -1,182 +1,182 @@
 [
   {
+    "full_name": "donnemartin/system-design-primer",
+    "stargazers_count": 203300,
+    "open_issues_count": 337,
+    "forks_count": 36595
+  },
+  {
+    "full_name": "tornadoweb/tornado",
+    "stargazers_count": 20857,
+    "open_issues_count": 217,
+    "forks_count": 5483
+  },
+  {
+    "full_name": "facebook/rocksdb",
+    "stargazers_count": 23974,
+    "open_issues_count": 821,
+    "forks_count": 5496
+  },
+  {
+    "full_name": "openblocks-dev/openblocks",
+    "stargazers_count": 2613,
+    "open_issues_count": 23,
+    "forks_count": 64
+  },
+  {
     "full_name": "directus/directus",
-    "stargazers_count": 18442,
-    "open_issues_count": 296,
-    "forks_count": 2182
+    "stargazers_count": 18491,
+    "open_issues_count": 281,
+    "forks_count": 2187
   },
   {
     "full_name": "containers/podman-desktop",
-    "stargazers_count": 1643,
-    "open_issues_count": 146,
-    "forks_count": 77
+    "stargazers_count": 1726,
+    "open_issues_count": 141,
+    "forks_count": 80
   },
   {
     "full_name": "dagger/dagger",
-    "stargazers_count": 6789,
-    "open_issues_count": 555,
-    "forks_count": 350
+    "stargazers_count": 6885,
+    "open_issues_count": 563,
+    "forks_count": 352
   },
   {
     "full_name": "sveltejs/svelte",
-    "stargazers_count": 63216,
-    "open_issues_count": 815,
-    "forks_count": 3092
+    "stargazers_count": 63250,
+    "open_issues_count": 816,
+    "forks_count": 3094
   },
   {
     "full_name": "tldraw/tldraw",
-    "stargazers_count": 10747,
-    "open_issues_count": 132,
-    "forks_count": 612
+    "stargazers_count": 10779,
+    "open_issues_count": 136,
+    "forks_count": 616
   },
   {
     "full_name": "iamkun/dayjs",
-    "stargazers_count": 41255,
-    "open_issues_count": 598,
-    "forks_count": 2056
+    "stargazers_count": 41293,
+    "open_issues_count": 604,
+    "forks_count": 2057
   },
   {
     "full_name": "tiangolo/typer",
-    "stargazers_count": 9709,
-    "open_issues_count": 199,
-    "forks_count": 387
+    "stargazers_count": 9752,
+    "open_issues_count": 202,
+    "forks_count": 393
   },
   {
     "full_name": "trpc/trpc",
-    "stargazers_count": 15138,
-    "open_issues_count": 74,
-    "forks_count": 479
+    "stargazers_count": 15268,
+    "open_issues_count": 77,
+    "forks_count": 481
   },
   {
     "full_name": "pulumi/pulumi",
-    "stargazers_count": 14237,
-    "open_issues_count": 1558,
-    "forks_count": 802
+    "stargazers_count": 14277,
+    "open_issues_count": 1577,
+    "forks_count": 803
   },
   {
     "full_name": "milanm/DevOps-Roadmap",
-    "stargazers_count": 3262,
+    "stargazers_count": 3328,
     "open_issues_count": 1,
-    "forks_count": 184
+    "forks_count": 191
   },
   {
     "full_name": "mastodon/mastodon",
-    "stargazers_count": 34458,
-    "open_issues_count": 2819,
-    "forks_count": 5152
+    "stargazers_count": 35007,
+    "open_issues_count": 2912,
+    "forks_count": 5219
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 96362,
-    "open_issues_count": 1555,
-    "forks_count": 21177
+    "stargazers_count": 96553,
+    "open_issues_count": 1559,
+    "forks_count": 21218
   },
   {
     "full_name": "kwebio/kweb-core",
-    "stargazers_count": 815,
-    "open_issues_count": 15,
+    "stargazers_count": 817,
+    "open_issues_count": 17,
     "forks_count": 49
   },
   {
     "full_name": "charmbracelet/vhs",
-    "stargazers_count": 7790,
-    "open_issues_count": 31,
-    "forks_count": 109
+    "stargazers_count": 7954,
+    "open_issues_count": 32,
+    "forks_count": 108
   },
   {
     "full_name": "resume/resume.github.com",
-    "stargazers_count": 58758,
+    "stargazers_count": 58783,
     "open_issues_count": 60,
-    "forks_count": 1376
+    "forks_count": 1375
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 356929,
-    "open_issues_count": 174,
-    "forks_count": 30406
+    "stargazers_count": 357179,
+    "open_issues_count": 176,
+    "forks_count": 30439
   },
   {
     "full_name": "open-sauced/hot",
-    "stargazers_count": 188,
-    "open_issues_count": 33,
+    "stargazers_count": 189,
+    "open_issues_count": 34,
     "forks_count": 73
   },
   {
     "full_name": "microsoft/api-guidelines",
-    "stargazers_count": 20239,
-    "open_issues_count": 113,
-    "forks_count": 2480
+    "stargazers_count": 20264,
+    "open_issues_count": 114,
+    "forks_count": 2487
   },
   {
     "full_name": "xonsh/xonsh",
-    "stargazers_count": 6587,
-    "open_issues_count": 253,
+    "stargazers_count": 6598,
+    "open_issues_count": 252,
     "forks_count": 590
   },
   {
     "full_name": "Fizzadar/pyinfra",
-    "stargazers_count": 2089,
-    "open_issues_count": 116,
-    "forks_count": 294
+    "stargazers_count": 2091,
+    "open_issues_count": 118,
+    "forks_count": 295
   },
   {
     "full_name": "ethereum/web3.py",
-    "stargazers_count": 3852,
-    "open_issues_count": 227,
-    "forks_count": 1213
+    "stargazers_count": 3855,
+    "open_issues_count": 229,
+    "forks_count": 1216
   },
   {
     "full_name": "learning-zone/nodejs-basics",
-    "stargazers_count": 2389,
+    "stargazers_count": 2411,
     "open_issues_count": 0,
-    "forks_count": 825
+    "forks_count": 830
   },
   {
     "full_name": "vitejs/vite",
-    "stargazers_count": 49444,
-    "open_issues_count": 662,
-    "forks_count": 4248
+    "stargazers_count": 49536,
+    "open_issues_count": 665,
+    "forks_count": 4260
   },
   {
     "full_name": "remoteintech/remote-jobs",
-    "stargazers_count": 23095,
+    "stargazers_count": 23135,
     "open_issues_count": 27,
-    "forks_count": 2438
+    "forks_count": 2439
   },
   {
     "full_name": "gothinkster/realworld",
-    "stargazers_count": 70079,
+    "stargazers_count": 70164,
     "open_issues_count": 58,
-    "forks_count": 6562
+    "forks_count": 6577
   },
   {
     "full_name": "wagtail/wagtail",
-    "stargazers_count": 13454,
-    "open_issues_count": 1015,
-    "forks_count": 2883
-  },
-  {
-    "full_name": "django-oscar/django-oscar",
-    "stargazers_count": 5514,
-    "open_issues_count": 169,
-    "forks_count": 2017
-  },
-  {
-    "full_name": "stephenmcd/mezzanine",
-    "stargazers_count": 4527,
-    "open_issues_count": 52,
-    "forks_count": 1613
-  },
-  {
-    "full_name": "VSCodium/vscodium",
-    "stargazers_count": 18283,
-    "open_issues_count": 90,
-    "forks_count": 765
-  },
-  {
-    "full_name": "BuilderIO/qwik",
-    "stargazers_count": 13143,
-    "open_issues_count": 221,
-    "forks_count": 542
+    "stargazers_count": 13523,
+    "open_issues_count": 1009,
+    "forks_count": 2886
   }
 ]
