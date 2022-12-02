@@ -1,182 +1,182 @@
 [
   {
     "full_name": "karanpratapsingh/system-design",
-    "stargazers_count": 13694,
+    "stargazers_count": 13735,
     "open_issues_count": 2,
-    "forks_count": 1058
+    "forks_count": 1065
   },
   {
     "full_name": "faif/python-patterns",
-    "stargazers_count": 35818,
+    "stargazers_count": 35850,
     "open_issues_count": 9,
-    "forks_count": 6643
+    "forks_count": 6647
   },
   {
     "full_name": "checkcheckzz/system-design-interview",
-    "stargazers_count": 19088,
-    "open_issues_count": 22,
-    "forks_count": 4727
+    "stargazers_count": 19111,
+    "open_issues_count": 23,
+    "forks_count": 4731
   },
   {
     "full_name": "hashicorp/terraform-guides",
-    "stargazers_count": 1262,
+    "stargazers_count": 1264,
     "open_issues_count": 10,
     "forks_count": 1100
   },
   {
     "full_name": "GreptimeTeam/greptimedb",
-    "stargazers_count": 1802,
-    "open_issues_count": 80,
+    "stargazers_count": 1838,
+    "open_issues_count": 92,
     "forks_count": 85
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 204344,
+    "stargazers_count": 204577,
     "open_issues_count": 338,
-    "forks_count": 36768
+    "forks_count": 36814
   },
   {
     "full_name": "tornadoweb/tornado",
-    "stargazers_count": 20867,
+    "stargazers_count": 20877,
     "open_issues_count": 218,
     "forks_count": 5485
   },
   {
     "full_name": "facebook/rocksdb",
-    "stargazers_count": 24061,
-    "open_issues_count": 825,
-    "forks_count": 5519
+    "stargazers_count": 24075,
+    "open_issues_count": 831,
+    "forks_count": 5523
   },
   {
     "full_name": "openblocks-dev/openblocks",
-    "stargazers_count": 3524,
-    "open_issues_count": 32,
-    "forks_count": 92
+    "stargazers_count": 3578,
+    "open_issues_count": 41,
+    "forks_count": 94
   },
   {
     "full_name": "directus/directus",
-    "stargazers_count": 18618,
-    "open_issues_count": 320,
-    "forks_count": 2212
+    "stargazers_count": 18661,
+    "open_issues_count": 322,
+    "forks_count": 2216
   },
   {
     "full_name": "containers/podman-desktop",
-    "stargazers_count": 1861,
-    "open_issues_count": 153,
-    "forks_count": 85
+    "stargazers_count": 1879,
+    "open_issues_count": 154,
+    "forks_count": 86
   },
   {
     "full_name": "dagger/dagger",
-    "stargazers_count": 7093,
-    "open_issues_count": 562,
+    "stargazers_count": 7136,
+    "open_issues_count": 568,
     "forks_count": 359
   },
   {
     "full_name": "sveltejs/svelte",
-    "stargazers_count": 63423,
-    "open_issues_count": 835,
-    "forks_count": 3100
+    "stargazers_count": 63489,
+    "open_issues_count": 841,
+    "forks_count": 3105
   },
   {
     "full_name": "tldraw/tldraw",
-    "stargazers_count": 11034,
-    "open_issues_count": 145,
-    "forks_count": 628
+    "stargazers_count": 11134,
+    "open_issues_count": 146,
+    "forks_count": 629
   },
   {
     "full_name": "iamkun/dayjs",
-    "stargazers_count": 41424,
+    "stargazers_count": 41457,
     "open_issues_count": 613,
-    "forks_count": 2066
+    "forks_count": 2070
   },
   {
     "full_name": "tiangolo/typer",
-    "stargazers_count": 9837,
-    "open_issues_count": 200,
+    "stargazers_count": 9849,
+    "open_issues_count": 198,
     "forks_count": 394
   },
   {
     "full_name": "trpc/trpc",
-    "stargazers_count": 16018,
-    "open_issues_count": 53,
-    "forks_count": 508
+    "stargazers_count": 16238,
+    "open_issues_count": 52,
+    "forks_count": 514
   },
   {
     "full_name": "pulumi/pulumi",
-    "stargazers_count": 14384,
-    "open_issues_count": 1586,
-    "forks_count": 810
+    "stargazers_count": 14413,
+    "open_issues_count": 1600,
+    "forks_count": 813
   },
   {
     "full_name": "milanm/DevOps-Roadmap",
-    "stargazers_count": 3489,
+    "stargazers_count": 3518,
     "open_issues_count": 2,
-    "forks_count": 217
+    "forks_count": 222
   },
   {
     "full_name": "mastodon/mastodon",
-    "stargazers_count": 36842,
-    "open_issues_count": 3305,
-    "forks_count": 5522
+    "stargazers_count": 37040,
+    "open_issues_count": 3357,
+    "forks_count": 5574
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 97031,
-    "open_issues_count": 1578,
-    "forks_count": 21364
+    "stargazers_count": 97171,
+    "open_issues_count": 1541,
+    "forks_count": 21423
   },
   {
     "full_name": "kwebio/kweb-core",
-    "stargazers_count": 828,
+    "stargazers_count": 830,
     "open_issues_count": 15,
     "forks_count": 50
   },
   {
     "full_name": "charmbracelet/vhs",
-    "stargazers_count": 8476,
-    "open_issues_count": 35,
-    "forks_count": 117
+    "stargazers_count": 8555,
+    "open_issues_count": 34,
+    "forks_count": 123
   },
   {
     "full_name": "resume/resume.github.com",
-    "stargazers_count": 58826,
+    "stargazers_count": 58838,
     "open_issues_count": 59,
     "forks_count": 1373
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 357665,
+    "stargazers_count": 357812,
     "open_issues_count": 194,
-    "forks_count": 30517
+    "forks_count": 30535
   },
   {
     "full_name": "open-sauced/hot",
-    "stargazers_count": 191,
-    "open_issues_count": 34,
+    "stargazers_count": 192,
+    "open_issues_count": 45,
     "forks_count": 71
   },
   {
     "full_name": "microsoft/api-guidelines",
-    "stargazers_count": 20350,
+    "stargazers_count": 20365,
     "open_issues_count": 115,
-    "forks_count": 2498
+    "forks_count": 2501
   },
   {
     "full_name": "xonsh/xonsh",
-    "stargazers_count": 6640,
+    "stargazers_count": 6649,
     "open_issues_count": 257,
     "forks_count": 593
   },
   {
     "full_name": "Fizzadar/pyinfra",
-    "stargazers_count": 2098,
+    "stargazers_count": 2101,
     "open_issues_count": 118,
     "forks_count": 298
   },
   {
     "full_name": "ethereum/web3.py",
-    "stargazers_count": 3879,
-    "open_issues_count": 228,
-    "forks_count": 1220
+    "stargazers_count": 3881,
+    "open_issues_count": 225,
+    "forks_count": 1218
   }
 ]
