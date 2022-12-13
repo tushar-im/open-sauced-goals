@@ -7,9 +7,9 @@
   },
   {
     "full_name": "sdmg15/Best-websites-a-programmer-should-visit",
-    "stargazers_count": 49767,
+    "stargazers_count": 49825,
     "open_issues_count": 828,
-    "forks_count": 6624
+    "forks_count": 6630
   },
   {
     "full_name": "wollomatic/simple-traefik",
@@ -19,164 +19,164 @@
   },
   {
     "full_name": "charlax/engineering-management",
-    "stargazers_count": 5212,
+    "stargazers_count": 5337,
     "open_issues_count": 1,
-    "forks_count": 424
+    "forks_count": 430
   },
   {
     "full_name": "kuchin/awesome-cto",
-    "stargazers_count": 17833,
+    "stargazers_count": 17963,
     "open_issues_count": 1,
-    "forks_count": 969
+    "forks_count": 975
   },
   {
     "full_name": "jazzband/django-oauth-toolkit",
-    "stargazers_count": 2706,
-    "open_issues_count": 163,
-    "forks_count": 717
+    "stargazers_count": 2709,
+    "open_issues_count": 159,
+    "forks_count": 718
   },
   {
     "full_name": "obsproject/obs-studio",
-    "stargazers_count": 43493,
-    "open_issues_count": 625,
-    "forks_count": 6473
+    "stargazers_count": 43566,
+    "open_issues_count": 630,
+    "forks_count": 6491
   },
   {
     "full_name": "karanpratapsingh/system-design",
-    "stargazers_count": 13824,
+    "stargazers_count": 13857,
     "open_issues_count": 2,
-    "forks_count": 1088
+    "forks_count": 1095
   },
   {
     "full_name": "faif/python-patterns",
-    "stargazers_count": 35915,
+    "stargazers_count": 35957,
     "open_issues_count": 9,
-    "forks_count": 6658
+    "forks_count": 6660
   },
   {
     "full_name": "checkcheckzz/system-design-interview",
-    "stargazers_count": 19145,
+    "stargazers_count": 19157,
     "open_issues_count": 23,
-    "forks_count": 4734
+    "forks_count": 4737
   },
   {
     "full_name": "hashicorp/terraform-guides",
     "stargazers_count": 1270,
-    "open_issues_count": 10,
-    "forks_count": 1103
+    "open_issues_count": 11,
+    "forks_count": 1105
   },
   {
     "full_name": "GreptimeTeam/greptimedb",
-    "stargazers_count": 1897,
-    "open_issues_count": 89,
-    "forks_count": 89
-  },
-  {
-    "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 205166,
-    "open_issues_count": 341,
-    "forks_count": 36897
-  },
-  {
-    "full_name": "tornadoweb/tornado",
-    "stargazers_count": 20894,
-    "open_issues_count": 218,
-    "forks_count": 5486
-  },
-  {
-    "full_name": "facebook/rocksdb",
-    "stargazers_count": 24124,
-    "open_issues_count": 833,
-    "forks_count": 5529
-  },
-  {
-    "full_name": "openblocks-dev/openblocks",
-    "stargazers_count": 3650,
-    "open_issues_count": 57,
-    "forks_count": 100
-  },
-  {
-    "full_name": "directus/directus",
-    "stargazers_count": 18734,
-    "open_issues_count": 334,
-    "forks_count": 2223
-  },
-  {
-    "full_name": "containers/podman-desktop",
-    "stargazers_count": 1920,
-    "open_issues_count": 149,
+    "stargazers_count": 1914,
+    "open_issues_count": 93,
     "forks_count": 91
   },
   {
+    "full_name": "donnemartin/system-design-primer",
+    "stargazers_count": 205448,
+    "open_issues_count": 340,
+    "forks_count": 36943
+  },
+  {
+    "full_name": "tornadoweb/tornado",
+    "stargazers_count": 20898,
+    "open_issues_count": 221,
+    "forks_count": 5484
+  },
+  {
+    "full_name": "facebook/rocksdb",
+    "stargazers_count": 24147,
+    "open_issues_count": 833,
+    "forks_count": 5533
+  },
+  {
+    "full_name": "openblocks-dev/openblocks",
+    "stargazers_count": 3698,
+    "open_issues_count": 64,
+    "forks_count": 104
+  },
+  {
+    "full_name": "directus/directus",
+    "stargazers_count": 18772,
+    "open_issues_count": 336,
+    "forks_count": 2230
+  },
+  {
+    "full_name": "containers/podman-desktop",
+    "stargazers_count": 1937,
+    "open_issues_count": 151,
+    "forks_count": 93
+  },
+  {
     "full_name": "dagger/dagger",
-    "stargazers_count": 7194,
+    "stargazers_count": 7218,
     "open_issues_count": 534,
-    "forks_count": 361
+    "forks_count": 362
   },
   {
     "full_name": "sveltejs/svelte",
-    "stargazers_count": 63687,
-    "open_issues_count": 830,
-    "forks_count": 3117
+    "stargazers_count": 63763,
+    "open_issues_count": 833,
+    "forks_count": 3118
   },
   {
     "full_name": "tldraw/tldraw",
-    "stargazers_count": 11291,
-    "open_issues_count": 137,
-    "forks_count": 648
+    "stargazers_count": 11352,
+    "open_issues_count": 145,
+    "forks_count": 652
   },
   {
     "full_name": "iamkun/dayjs",
-    "stargazers_count": 41527,
+    "stargazers_count": 41575,
     "open_issues_count": 615,
-    "forks_count": 2076
+    "forks_count": 2079
   },
   {
     "full_name": "tiangolo/typer",
-    "stargazers_count": 9918,
-    "open_issues_count": 192,
-    "forks_count": 395
+    "stargazers_count": 9947,
+    "open_issues_count": 191,
+    "forks_count": 396
   },
   {
     "full_name": "trpc/trpc",
-    "stargazers_count": 16754,
-    "open_issues_count": 65,
-    "forks_count": 523
+    "stargazers_count": 16917,
+    "open_issues_count": 60,
+    "forks_count": 534
   },
   {
     "full_name": "pulumi/pulumi",
-    "stargazers_count": 14474,
-    "open_issues_count": 1630,
-    "forks_count": 813
+    "stargazers_count": 14499,
+    "open_issues_count": 1628,
+    "forks_count": 816
   },
   {
     "full_name": "milanm/DevOps-Roadmap",
-    "stargazers_count": 3584,
+    "stargazers_count": 3610,
     "open_issues_count": 2,
-    "forks_count": 232
+    "forks_count": 234
   },
   {
     "full_name": "mastodon/mastodon",
-    "stargazers_count": 37317,
-    "open_issues_count": 3423,
-    "forks_count": 5620
+    "stargazers_count": 37452,
+    "open_issues_count": 3450,
+    "forks_count": 5635
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 97468,
-    "open_issues_count": 1575,
-    "forks_count": 21540
+    "stargazers_count": 97624,
+    "open_issues_count": 1586,
+    "forks_count": 21587
   },
   {
     "full_name": "kwebio/kweb-core",
-    "stargazers_count": 835,
-    "open_issues_count": 17,
+    "stargazers_count": 839,
+    "open_issues_count": 16,
     "forks_count": 52
   },
   {
     "full_name": "charmbracelet/vhs",
-    "stargazers_count": 8655,
+    "stargazers_count": 8698,
     "open_issues_count": 33,
-    "forks_count": 127
+    "forks_count": 128
   }
 ]
