@@ -1,15 +1,33 @@
 [
   {
+    "full_name": "openai/whisper",
+    "stargazers_count": 19312,
+    "open_issues_count": 10,
+    "forks_count": 1690
+  },
+  {
+    "full_name": "huggingface/transformers",
+    "stargazers_count": 76675,
+    "open_issues_count": 575,
+    "forks_count": 17315
+  },
+  {
+    "full_name": "microsoft/DialoGPT",
+    "stargazers_count": 1814,
+    "open_issues_count": 59,
+    "forks_count": 279
+  },
+  {
     "full_name": "pocketbase/pocketbase",
-    "stargazers_count": 17497,
+    "stargazers_count": 18146,
     "open_issues_count": 47,
-    "forks_count": 640
+    "forks_count": 666
   },
   {
     "full_name": "braydoncoyer/braydoncoyer.dev",
-    "stargazers_count": 290,
+    "stargazers_count": 293,
     "open_issues_count": 10,
-    "forks_count": 45
+    "forks_count": 46
   },
   {
     "full_name": "StartBootstrap/startbootstrap-one-page-wonder",
@@ -21,7 +39,7 @@
     "full_name": "StartBootstrap/startbootstrap-new-age",
     "stargazers_count": 995,
     "open_issues_count": 7,
-    "forks_count": 997
+    "forks_count": 998
   },
   {
     "full_name": "approov/aws-ec2-traefik-setup",
@@ -31,9 +49,9 @@
   },
   {
     "full_name": "sdmg15/Best-websites-a-programmer-should-visit",
-    "stargazers_count": 49890,
-    "open_issues_count": 828,
-    "forks_count": 6638
+    "stargazers_count": 49907,
+    "open_issues_count": 826,
+    "forks_count": 6637
   },
   {
     "full_name": "wollomatic/simple-traefik",
@@ -43,140 +61,122 @@
   },
   {
     "full_name": "charlax/engineering-management",
-    "stargazers_count": 5425,
+    "stargazers_count": 5457,
     "open_issues_count": 1,
-    "forks_count": 444
+    "forks_count": 445
   },
   {
     "full_name": "kuchin/awesome-cto",
-    "stargazers_count": 18389,
-    "open_issues_count": 1,
-    "forks_count": 1001
+    "stargazers_count": 18508,
+    "open_issues_count": 0,
+    "forks_count": 1004
   },
   {
     "full_name": "jazzband/django-oauth-toolkit",
-    "stargazers_count": 2711,
+    "stargazers_count": 2713,
     "open_issues_count": 160,
     "forks_count": 719
   },
   {
     "full_name": "obsproject/obs-studio",
-    "stargazers_count": 43748,
-    "open_issues_count": 636,
+    "stargazers_count": 43796,
+    "open_issues_count": 643,
     "forks_count": 6503
   },
   {
     "full_name": "karanpratapsingh/system-design",
-    "stargazers_count": 13928,
+    "stargazers_count": 13971,
     "open_issues_count": 2,
-    "forks_count": 1117
+    "forks_count": 1129
   },
   {
     "full_name": "faif/python-patterns",
-    "stargazers_count": 36034,
+    "stargazers_count": 36089,
     "open_issues_count": 9,
-    "forks_count": 6668
+    "forks_count": 6674
   },
   {
     "full_name": "checkcheckzz/system-design-interview",
-    "stargazers_count": 19191,
+    "stargazers_count": 19205,
     "open_issues_count": 23,
-    "forks_count": 4744
+    "forks_count": 4746
   },
   {
     "full_name": "hashicorp/terraform-guides",
-    "stargazers_count": 1273,
+    "stargazers_count": 1274,
     "open_issues_count": 11,
-    "forks_count": 1108
+    "forks_count": 1109
   },
   {
     "full_name": "GreptimeTeam/greptimedb",
-    "stargazers_count": 1949,
-    "open_issues_count": 91,
-    "forks_count": 92
+    "stargazers_count": 1967,
+    "open_issues_count": 98,
+    "forks_count": 95
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 205928,
+    "stargazers_count": 206115,
     "open_issues_count": 340,
-    "forks_count": 37010
+    "forks_count": 37033
   },
   {
     "full_name": "tornadoweb/tornado",
-    "stargazers_count": 20904,
-    "open_issues_count": 222,
-    "forks_count": 5484
+    "stargazers_count": 20905,
+    "open_issues_count": 223,
+    "forks_count": 5487
   },
   {
     "full_name": "facebook/rocksdb",
-    "stargazers_count": 24188,
-    "open_issues_count": 827,
-    "forks_count": 5544
+    "stargazers_count": 24212,
+    "open_issues_count": 826,
+    "forks_count": 5546
   },
   {
     "full_name": "openblocks-dev/openblocks",
-    "stargazers_count": 3749,
+    "stargazers_count": 3775,
     "open_issues_count": 62,
-    "forks_count": 110
+    "forks_count": 112
   },
   {
     "full_name": "directus/directus",
-    "stargazers_count": 19005,
-    "open_issues_count": 338,
-    "forks_count": 2247
+    "stargazers_count": 19052,
+    "open_issues_count": 330,
+    "forks_count": 2249
   },
   {
     "full_name": "containers/podman-desktop",
-    "stargazers_count": 1967,
-    "open_issues_count": 156,
+    "stargazers_count": 1978,
+    "open_issues_count": 153,
     "forks_count": 94
   },
   {
     "full_name": "dagger/dagger",
-    "stargazers_count": 7249,
-    "open_issues_count": 554,
-    "forks_count": 365
+    "stargazers_count": 7267,
+    "open_issues_count": 449,
+    "forks_count": 367
   },
   {
     "full_name": "sveltejs/svelte",
-    "stargazers_count": 64061,
-    "open_issues_count": 849,
-    "forks_count": 3133
+    "stargazers_count": 64160,
+    "open_issues_count": 853,
+    "forks_count": 3140
   },
   {
     "full_name": "tldraw/tldraw",
-    "stargazers_count": 11424,
-    "open_issues_count": 144,
-    "forks_count": 658
+    "stargazers_count": 11458,
+    "open_issues_count": 145,
+    "forks_count": 661
   },
   {
     "full_name": "iamkun/dayjs",
-    "stargazers_count": 41636,
-    "open_issues_count": 625,
-    "forks_count": 2080
+    "stargazers_count": 41680,
+    "open_issues_count": 627,
+    "forks_count": 2083
   },
   {
     "full_name": "tiangolo/typer",
-    "stargazers_count": 9998,
+    "stargazers_count": 10052,
     "open_issues_count": 192,
-    "forks_count": 399
-  },
-  {
-    "full_name": "trpc/trpc",
-    "stargazers_count": 17347,
-    "open_issues_count": 63,
-    "forks_count": 553
-  },
-  {
-    "full_name": "pulumi/pulumi",
-    "stargazers_count": 14567,
-    "open_issues_count": 1565,
-    "forks_count": 819
-  },
-  {
-    "full_name": "milanm/DevOps-Roadmap",
-    "stargazers_count": 3648,
-    "open_issues_count": 2,
-    "forks_count": 243
+    "forks_count": 402
   }
 ]
