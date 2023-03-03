@@ -1,9 +1,9 @@
 [
   {
     "full_name": "flet-dev/flet",
-    "stargazers_count": 4471,
-    "open_issues_count": 191,
-    "forks_count": 176
+    "stargazers_count": 4507,
+    "open_issues_count": 201,
+    "forks_count": 180
   },
   {
     "full_name": "LautaroNavarro/django-websockets-no-dep",
@@ -13,15 +13,15 @@
   },
   {
     "full_name": "initialcommit-com/git-sim",
-    "stargazers_count": 3202,
+    "stargazers_count": 3244,
     "open_issues_count": 5,
     "forks_count": 92
   },
   {
     "full_name": "qdrant/qdrant",
-    "stargazers_count": 4474,
-    "open_issues_count": 53,
-    "forks_count": 201
+    "stargazers_count": 4582,
+    "open_issues_count": 51,
+    "forks_count": 206
   },
   {
     "full_name": "bradtraversy/go_crash_course",
@@ -31,8 +31,8 @@
   },
   {
     "full_name": "jina-ai/jina",
-    "stargazers_count": 17577,
-    "open_issues_count": 32,
+    "stargazers_count": 17602,
+    "open_issues_count": 34,
     "forks_count": 2046
   },
   {
@@ -43,33 +43,33 @@
   },
   {
     "full_name": "openai/whisper",
-    "stargazers_count": 25083,
+    "stargazers_count": 25914,
     "open_issues_count": 12,
-    "forks_count": 2571
+    "forks_count": 2690
   },
   {
     "full_name": "huggingface/transformers",
-    "stargazers_count": 82809,
-    "open_issues_count": 553,
-    "forks_count": 18253
+    "stargazers_count": 83299,
+    "open_issues_count": 528,
+    "forks_count": 18316
   },
   {
     "full_name": "microsoft/DialoGPT",
-    "stargazers_count": 1953,
+    "stargazers_count": 1959,
     "open_issues_count": 59,
-    "forks_count": 304
+    "forks_count": 306
   },
   {
     "full_name": "pocketbase/pocketbase",
-    "stargazers_count": 21398,
-    "open_issues_count": 41,
-    "forks_count": 826
+    "stargazers_count": 21499,
+    "open_issues_count": 42,
+    "forks_count": 827
   },
   {
     "full_name": "braydoncoyer/braydoncoyer.dev",
-    "stargazers_count": 323,
+    "stargazers_count": 325,
     "open_issues_count": 10,
-    "forks_count": 48
+    "forks_count": 49
   },
   {
     "full_name": "StartBootstrap/startbootstrap-one-page-wonder",
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "StartBootstrap/startbootstrap-new-age",
-    "stargazers_count": 1005,
+    "stargazers_count": 1006,
     "open_issues_count": 7,
-    "forks_count": 1005
+    "forks_count": 1003
   },
   {
     "full_name": "approov/aws-ec2-traefik-setup",
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "sdmg15/Best-websites-a-programmer-should-visit",
-    "stargazers_count": 50849,
+    "stargazers_count": 50885,
     "open_issues_count": 815,
-    "forks_count": 6740
+    "forks_count": 6742
   },
   {
     "full_name": "wollomatic/simple-traefik",
@@ -103,80 +103,80 @@
   },
   {
     "full_name": "charlax/engineering-management",
-    "stargazers_count": 5729,
+    "stargazers_count": 5740,
     "open_issues_count": 2,
-    "forks_count": 459
+    "forks_count": 460
   },
   {
     "full_name": "kuchin/awesome-cto",
-    "stargazers_count": 19166,
+    "stargazers_count": 19186,
     "open_issues_count": 0,
-    "forks_count": 1050
+    "forks_count": 1053
   },
   {
     "full_name": "jazzband/django-oauth-toolkit",
-    "stargazers_count": 2762,
-    "open_issues_count": 164,
-    "forks_count": 727
+    "stargazers_count": 2764,
+    "open_issues_count": 165,
+    "forks_count": 728
   },
   {
     "full_name": "obsproject/obs-studio",
-    "stargazers_count": 45968,
+    "stargazers_count": 46008,
     "open_issues_count": 655,
-    "forks_count": 6651
+    "forks_count": 6659
   },
   {
     "full_name": "karanpratapsingh/system-design",
-    "stargazers_count": 14791,
+    "stargazers_count": 14822,
     "open_issues_count": 3,
-    "forks_count": 1270
+    "forks_count": 1274
   },
   {
     "full_name": "faif/python-patterns",
-    "stargazers_count": 36693,
+    "stargazers_count": 36714,
     "open_issues_count": 9,
-    "forks_count": 6729
+    "forks_count": 6734
   },
   {
     "full_name": "checkcheckzz/system-design-interview",
-    "stargazers_count": 19508,
+    "stargazers_count": 19536,
     "open_issues_count": 24,
-    "forks_count": 4785
+    "forks_count": 4787
   },
   {
     "full_name": "hashicorp/terraform-guides",
-    "stargazers_count": 1295,
+    "stargazers_count": 1296,
     "open_issues_count": 12,
     "forks_count": 1137
   },
   {
     "full_name": "GreptimeTeam/greptimedb",
-    "stargazers_count": 2227,
-    "open_issues_count": 127,
-    "forks_count": 113
+    "stargazers_count": 2241,
+    "open_issues_count": 130,
+    "forks_count": 115
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 212512,
+    "stargazers_count": 212894,
     "open_issues_count": 359,
-    "forks_count": 37967
+    "forks_count": 38022
   },
   {
     "full_name": "tornadoweb/tornado",
-    "stargazers_count": 20994,
+    "stargazers_count": 21003,
     "open_issues_count": 222,
-    "forks_count": 5491
+    "forks_count": 5493
   },
   {
     "full_name": "facebook/rocksdb",
-    "stargazers_count": 24600,
-    "open_issues_count": 860,
-    "forks_count": 5607
+    "stargazers_count": 24626,
+    "open_issues_count": 865,
+    "forks_count": 5614
   },
   {
     "full_name": "openblocks-dev/openblocks",
-    "stargazers_count": 4183,
-    "open_issues_count": 91,
-    "forks_count": 147
+    "stargazers_count": 4234,
+    "open_issues_count": 93,
+    "forks_count": 151
   }
 ]
