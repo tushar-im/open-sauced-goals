@@ -1,38 +1,44 @@
 [
   {
+    "full_name": "tiangolo/full-stack-fastapi-postgresql",
+    "stargazers_count": 12173,
+    "open_issues_count": 218,
+    "forks_count": 2229
+  },
+  {
     "full_name": "smol-ai/developer",
-    "stargazers_count": 9365,
-    "open_issues_count": 53,
-    "forks_count": 809
+    "stargazers_count": 9620,
+    "open_issues_count": 56,
+    "forks_count": 841
   },
   {
     "full_name": "fullstack-hy2020/fullstack-hy2020.github.io",
-    "stargazers_count": 1120,
-    "open_issues_count": 85,
-    "forks_count": 2509
+    "stargazers_count": 1124,
+    "open_issues_count": 86,
+    "forks_count": 2510
   },
   {
     "full_name": "pycaret/pycaret",
-    "stargazers_count": 7380,
-    "open_issues_count": 281,
+    "stargazers_count": 7397,
+    "open_issues_count": 283,
     "forks_count": 1605
   },
   {
     "full_name": "mantinedev/mantine",
-    "stargazers_count": 19986,
-    "open_issues_count": 133,
-    "forks_count": 1398
+    "stargazers_count": 20059,
+    "open_issues_count": 137,
+    "forks_count": 1399
   },
   {
     "full_name": "imartinez/privateGPT",
-    "stargazers_count": 29741,
-    "open_issues_count": 322,
-    "forks_count": 3424
+    "stargazers_count": 30381,
+    "open_issues_count": 337,
+    "forks_count": 3526
   },
   {
     "full_name": "nHapiNET/nHapi",
-    "stargazers_count": 242,
-    "open_issues_count": 25,
+    "stargazers_count": 243,
+    "open_issues_count": 23,
     "forks_count": 145
   },
   {
@@ -55,9 +61,9 @@
   },
   {
     "full_name": "microsoft/FHIR-Converter",
-    "stargazers_count": 310,
+    "stargazers_count": 311,
     "open_issues_count": 19,
-    "forks_count": 147
+    "forks_count": 148
   },
   {
     "full_name": "johnpaulett/python-hl7",
@@ -67,14 +73,14 @@
   },
   {
     "full_name": "themesberg/landwind",
-    "stargazers_count": 390,
+    "stargazers_count": 393,
     "open_issues_count": 2,
-    "forks_count": 69
+    "forks_count": 70
   },
   {
     "full_name": "georgia-tech-db/eva",
-    "stargazers_count": 2016,
-    "open_issues_count": 20,
+    "stargazers_count": 2027,
+    "open_issues_count": 24,
     "forks_count": 157
   },
   {
@@ -85,26 +91,26 @@
   },
   {
     "full_name": "pilcrowOnPaper/lucia",
-    "stargazers_count": 2165,
-    "open_issues_count": 31,
-    "forks_count": 183
+    "stargazers_count": 2216,
+    "open_issues_count": 35,
+    "forks_count": 206
   },
   {
     "full_name": "ampproject/amphtml",
-    "stargazers_count": 14946,
-    "open_issues_count": 1130,
+    "stargazers_count": 14947,
+    "open_issues_count": 1139,
     "forks_count": 4067
   },
   {
     "full_name": "rampatra/photography",
-    "stargazers_count": 724,
+    "stargazers_count": 727,
     "open_issues_count": 39,
-    "forks_count": 807
+    "forks_count": 808
   },
   {
     "full_name": "flet-dev/flet",
-    "stargazers_count": 5501,
-    "open_issues_count": 270,
+    "stargazers_count": 5529,
+    "open_issues_count": 278,
     "forks_count": 205
   },
   {
@@ -115,15 +121,15 @@
   },
   {
     "full_name": "initialcommit-com/git-sim",
-    "stargazers_count": 3586,
-    "open_issues_count": 8,
-    "forks_count": 100
+    "stargazers_count": 3590,
+    "open_issues_count": 9,
+    "forks_count": 101
   },
   {
     "full_name": "qdrant/qdrant",
-    "stargazers_count": 10997,
+    "stargazers_count": 11069,
     "open_issues_count": 98,
-    "forks_count": 558
+    "forks_count": 563
   },
   {
     "full_name": "bradtraversy/go_crash_course",
@@ -133,9 +139,9 @@
   },
   {
     "full_name": "jina-ai/jina",
-    "stargazers_count": 18544,
-    "open_issues_count": 21,
-    "forks_count": 2127
+    "stargazers_count": 18568,
+    "open_issues_count": 18,
+    "forks_count": 2126
   },
   {
     "full_name": "terraform-in-action/manning-code",
@@ -145,38 +151,32 @@
   },
   {
     "full_name": "openai/whisper",
-    "stargazers_count": 38948,
-    "open_issues_count": 27,
-    "forks_count": 4349
+    "stargazers_count": 39262,
+    "open_issues_count": 25,
+    "forks_count": 4391
   },
   {
     "full_name": "huggingface/transformers",
-    "stargazers_count": 103681,
-    "open_issues_count": 760,
-    "forks_count": 20913
+    "stargazers_count": 104104,
+    "open_issues_count": 747,
+    "forks_count": 20969
   },
   {
     "full_name": "microsoft/DialoGPT",
-    "stargazers_count": 2183,
+    "stargazers_count": 2184,
     "open_issues_count": 62,
-    "forks_count": 333
+    "forks_count": 335
   },
   {
     "full_name": "pocketbase/pocketbase",
-    "stargazers_count": 23884,
-    "open_issues_count": 39,
-    "forks_count": 964
+    "stargazers_count": 23945,
+    "open_issues_count": 40,
+    "forks_count": 968
   },
   {
     "full_name": "braydoncoyer/braydoncoyer.dev",
-    "stargazers_count": 371,
+    "stargazers_count": 374,
     "open_issues_count": 15,
-    "forks_count": 62
-  },
-  {
-    "full_name": "StartBootstrap/startbootstrap-one-page-wonder",
-    "stargazers_count": 350,
-    "open_issues_count": 4,
-    "forks_count": 506
+    "forks_count": 65
   }
 ]
