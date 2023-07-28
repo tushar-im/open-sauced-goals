@@ -1,6 +1,6 @@
 [
   {
-    "full_name": "themefisher/vex",
+    "full_name": "themefisher/vex-bootstrap",
     "stargazers_count": 22,
     "open_issues_count": 0,
     "forks_count": 18
@@ -13,7 +13,7 @@
   },
   {
     "full_name": "themesberg/tailwind-landing-page",
-    "stargazers_count": 64,
+    "stargazers_count": 63,
     "open_issues_count": 1,
     "forks_count": 24
   },
@@ -25,15 +25,15 @@
   },
   {
     "full_name": "bedimcode/responsive-real-state-website",
-    "stargazers_count": 135,
+    "stargazers_count": 136,
     "open_issues_count": 0,
-    "forks_count": 55
+    "forks_count": 56
   },
   {
     "full_name": "alnahian2003/heyu",
     "stargazers_count": 21,
     "open_issues_count": 0,
-    "forks_count": 18
+    "forks_count": 17
   },
   {
     "full_name": "RSurya99/trippi",
@@ -43,56 +43,56 @@
   },
   {
     "full_name": "cruip/open-react-template",
-    "stargazers_count": 2842,
+    "stargazers_count": 2849,
     "open_issues_count": 4,
-    "forks_count": 1335
+    "forks_count": 1340
   },
   {
     "full_name": "Infisical/infisical",
-    "stargazers_count": 7223,
-    "open_issues_count": 160,
-    "forks_count": 297
+    "stargazers_count": 7277,
+    "open_issues_count": 162,
+    "forks_count": 298
   },
   {
     "full_name": "tiangolo/full-stack-fastapi-postgresql",
-    "stargazers_count": 12493,
+    "stargazers_count": 12520,
     "open_issues_count": 224,
-    "forks_count": 2305
+    "forks_count": 2311
   },
   {
     "full_name": "smol-ai/developer",
-    "stargazers_count": 10442,
-    "open_issues_count": 64,
-    "forks_count": 977
+    "stargazers_count": 10470,
+    "open_issues_count": 66,
+    "forks_count": 982
   },
   {
     "full_name": "fullstack-hy2020/fullstack-hy2020.github.io",
-    "stargazers_count": 1149,
-    "open_issues_count": 125,
-    "forks_count": 2607
+    "stargazers_count": 1155,
+    "open_issues_count": 130,
+    "forks_count": 2614
   },
   {
     "full_name": "pycaret/pycaret",
-    "stargazers_count": 7507,
-    "open_issues_count": 294,
-    "forks_count": 1620
+    "stargazers_count": 7522,
+    "open_issues_count": 298,
+    "forks_count": 1621
   },
   {
     "full_name": "mantinedev/mantine",
-    "stargazers_count": 20590,
-    "open_issues_count": 144,
-    "forks_count": 1437
+    "stargazers_count": 20625,
+    "open_issues_count": 156,
+    "forks_count": 1441
   },
   {
     "full_name": "imartinez/privateGPT",
-    "stargazers_count": 34027,
-    "open_issues_count": 432,
-    "forks_count": 4252
+    "stargazers_count": 34416,
+    "open_issues_count": 434,
+    "forks_count": 4303
   },
   {
     "full_name": "nHapiNET/nHapi",
-    "stargazers_count": 249,
-    "open_issues_count": 24,
+    "stargazers_count": 250,
+    "open_issues_count": 23,
     "forks_count": 146
   },
   {
@@ -116,7 +116,7 @@
   {
     "full_name": "microsoft/FHIR-Converter",
     "stargazers_count": 313,
-    "open_issues_count": 21,
+    "open_issues_count": 22,
     "forks_count": 148
   },
   {
@@ -127,45 +127,45 @@
   },
   {
     "full_name": "themesberg/landwind",
-    "stargazers_count": 434,
+    "stargazers_count": 437,
     "open_issues_count": 2,
     "forks_count": 80
   },
   {
     "full_name": "georgia-tech-db/evadb",
-    "stargazers_count": 2157,
+    "stargazers_count": 2162,
     "open_issues_count": 22,
     "forks_count": 164
   },
   {
     "full_name": "biobootloader/wolverine",
-    "stargazers_count": 5132,
+    "stargazers_count": 5146,
     "open_issues_count": 29,
     "forks_count": 518
   },
   {
     "full_name": "pilcrowOnPaper/lucia",
-    "stargazers_count": 2459,
-    "open_issues_count": 32,
-    "forks_count": 245
+    "stargazers_count": 2604,
+    "open_issues_count": 35,
+    "forks_count": 251
   },
   {
     "full_name": "ampproject/amphtml",
-    "stargazers_count": 14946,
-    "open_issues_count": 1138,
-    "forks_count": 4081
+    "stargazers_count": 14942,
+    "open_issues_count": 1137,
+    "forks_count": 4080
   },
   {
     "full_name": "rampatra/photography",
-    "stargazers_count": 738,
+    "stargazers_count": 741,
     "open_issues_count": 39,
     "forks_count": 821
   },
   {
     "full_name": "flet-dev/flet",
-    "stargazers_count": 5905,
-    "open_issues_count": 321,
-    "forks_count": 213
+    "stargazers_count": 5930,
+    "open_issues_count": 333,
+    "forks_count": 217
   },
   {
     "full_name": "LautaroNavarro/django-websockets-no-dep",
