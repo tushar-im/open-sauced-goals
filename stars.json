@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "AlexisRiols/figma-portfolio",
+    "stargazers_count": 28,
+    "open_issues_count": 0,
+    "forks_count": 12
+  },
+  {
     "full_name": "themefisher/vex-bootstrap",
     "stargazers_count": 22,
     "open_issues_count": 0,
@@ -13,7 +19,7 @@
   },
   {
     "full_name": "themesberg/tailwind-landing-page",
-    "stargazers_count": 68,
+    "stargazers_count": 70,
     "open_issues_count": 1,
     "forks_count": 24
   },
@@ -21,7 +27,7 @@
     "full_name": "bedimcode/responsive-car-website",
     "stargazers_count": 122,
     "open_issues_count": 0,
-    "forks_count": 74
+    "forks_count": 76
   },
   {
     "full_name": "bedimcode/responsive-real-state-website",
@@ -33,7 +39,7 @@
     "full_name": "alnahian2003/heyu",
     "stargazers_count": 21,
     "open_issues_count": 0,
-    "forks_count": 18
+    "forks_count": 19
   },
   {
     "full_name": "RSurya99/trippi",
@@ -43,51 +49,51 @@
   },
   {
     "full_name": "cruip/open-react-template",
-    "stargazers_count": 2867,
+    "stargazers_count": 2875,
     "open_issues_count": 4,
-    "forks_count": 1359
+    "forks_count": 1364
   },
   {
     "full_name": "Infisical/infisical",
-    "stargazers_count": 7375,
-    "open_issues_count": 162,
-    "forks_count": 307
+    "stargazers_count": 7416,
+    "open_issues_count": 167,
+    "forks_count": 309
   },
   {
     "full_name": "tiangolo/full-stack-fastapi-postgresql",
-    "stargazers_count": 12601,
+    "stargazers_count": 12628,
     "open_issues_count": 226,
-    "forks_count": 2327
+    "forks_count": 2330
   },
   {
     "full_name": "smol-ai/developer",
-    "stargazers_count": 10591,
-    "open_issues_count": 71,
-    "forks_count": 1000
+    "stargazers_count": 10625,
+    "open_issues_count": 68,
+    "forks_count": 1002
   },
   {
     "full_name": "fullstack-hy2020/fullstack-hy2020.github.io",
-    "stargazers_count": 1164,
-    "open_issues_count": 117,
-    "forks_count": 2628
+    "stargazers_count": 1170,
+    "open_issues_count": 123,
+    "forks_count": 2638
   },
   {
     "full_name": "pycaret/pycaret",
-    "stargazers_count": 7560,
-    "open_issues_count": 297,
-    "forks_count": 1625
+    "stargazers_count": 7567,
+    "open_issues_count": 299,
+    "forks_count": 1626
   },
   {
     "full_name": "mantinedev/mantine",
-    "stargazers_count": 20773,
-    "open_issues_count": 165,
-    "forks_count": 1455
+    "stargazers_count": 20810,
+    "open_issues_count": 169,
+    "forks_count": 1459
   },
   {
     "full_name": "imartinez/privateGPT",
-    "stargazers_count": 35034,
+    "stargazers_count": 35168,
     "open_issues_count": 454,
-    "forks_count": 4419
+    "forks_count": 4455
   },
   {
     "full_name": "nHapiNET/nHapi",
@@ -111,7 +117,7 @@
     "full_name": "crs4/hl7apy",
     "stargazers_count": 186,
     "open_issues_count": 31,
-    "forks_count": 77
+    "forks_count": 78
   },
   {
     "full_name": "microsoft/FHIR-Converter",
@@ -121,62 +127,56 @@
   },
   {
     "full_name": "johnpaulett/python-hl7",
-    "stargazers_count": 258,
+    "stargazers_count": 259,
     "open_issues_count": 15,
     "forks_count": 77
   },
   {
     "full_name": "themesberg/landwind",
-    "stargazers_count": 445,
+    "stargazers_count": 451,
     "open_issues_count": 2,
-    "forks_count": 81
+    "forks_count": 83
   },
   {
     "full_name": "georgia-tech-db/evadb",
-    "stargazers_count": 2170,
-    "open_issues_count": 22,
-    "forks_count": 165
+    "stargazers_count": 2176,
+    "open_issues_count": 21,
+    "forks_count": 166
   },
   {
     "full_name": "biobootloader/wolverine",
-    "stargazers_count": 5167,
+    "stargazers_count": 5173,
     "open_issues_count": 28,
-    "forks_count": 520
+    "forks_count": 523
   },
   {
     "full_name": "pilcrowOnPaper/lucia",
-    "stargazers_count": 2817,
-    "open_issues_count": 27,
-    "forks_count": 257
+    "stargazers_count": 2864,
+    "open_issues_count": 23,
+    "forks_count": 261
   },
   {
     "full_name": "ampproject/amphtml",
-    "stargazers_count": 14944,
-    "open_issues_count": 1138,
-    "forks_count": 4080
+    "stargazers_count": 14939,
+    "open_issues_count": 1125,
+    "forks_count": 4081
   },
   {
     "full_name": "rampatra/photography",
-    "stargazers_count": 743,
+    "stargazers_count": 745,
     "open_issues_count": 39,
-    "forks_count": 823
+    "forks_count": 826
   },
   {
     "full_name": "flet-dev/flet",
-    "stargazers_count": 6028,
-    "open_issues_count": 339,
-    "forks_count": 219
+    "stargazers_count": 6054,
+    "open_issues_count": 348,
+    "forks_count": 220
   },
   {
     "full_name": "LautaroNavarro/django-websockets-no-dep",
     "stargazers_count": 8,
     "open_issues_count": 3,
     "forks_count": 1
-  },
-  {
-    "full_name": "initialcommit-com/git-sim",
-    "stargazers_count": 3665,
-    "open_issues_count": 8,
-    "forks_count": 105
   }
 ]
