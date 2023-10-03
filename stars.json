@@ -1,9 +1,9 @@
 [
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 63225,
-    "open_issues_count": 1918,
-    "forks_count": 1870
+    "stargazers_count": 63520,
+    "open_issues_count": 1942,
+    "forks_count": 1890
   },
   {
     "full_name": "jmcarp/nplusone",
@@ -13,9 +13,9 @@
   },
   {
     "full_name": "StartBootstrap/startbootstrap-personal",
-    "stargazers_count": 40,
+    "stargazers_count": 41,
     "open_issues_count": 2,
-    "forks_count": 35
+    "forks_count": 37
   },
   {
     "full_name": "AlexisRiols/figma-portfolio",
@@ -37,9 +37,9 @@
   },
   {
     "full_name": "themesberg/tailwind-landing-page",
-    "stargazers_count": 80,
+    "stargazers_count": 81,
     "open_issues_count": 1,
-    "forks_count": 27
+    "forks_count": 28
   },
   {
     "full_name": "bedimcode/responsive-car-website",
@@ -67,51 +67,51 @@
   },
   {
     "full_name": "cruip/open-react-template",
-    "stargazers_count": 2977,
+    "stargazers_count": 2984,
     "open_issues_count": 5,
-    "forks_count": 1399
+    "forks_count": 1402
   },
   {
     "full_name": "Infisical/infisical",
-    "stargazers_count": 9698,
-    "open_issues_count": 208,
-    "forks_count": 423
+    "stargazers_count": 9734,
+    "open_issues_count": 207,
+    "forks_count": 427
   },
   {
     "full_name": "tiangolo/full-stack-fastapi-postgresql",
-    "stargazers_count": 13045,
+    "stargazers_count": 13072,
     "open_issues_count": 227,
-    "forks_count": 2391
+    "forks_count": 2397
   },
   {
     "full_name": "smol-ai/developer",
-    "stargazers_count": 11059,
+    "stargazers_count": 11073,
     "open_issues_count": 75,
-    "forks_count": 1066
+    "forks_count": 1068
   },
   {
     "full_name": "fullstack-hy2020/fullstack-hy2020.github.io",
-    "stargazers_count": 1216,
-    "open_issues_count": 105,
-    "forks_count": 2822
+    "stargazers_count": 1223,
+    "open_issues_count": 109,
+    "forks_count": 2838
   },
   {
     "full_name": "pycaret/pycaret",
-    "stargazers_count": 7748,
-    "open_issues_count": 296,
-    "forks_count": 1664
+    "stargazers_count": 7765,
+    "open_issues_count": 297,
+    "forks_count": 1665
   },
   {
     "full_name": "mantinedev/mantine",
-    "stargazers_count": 21528,
-    "open_issues_count": 50,
-    "forks_count": 1520
+    "stargazers_count": 21565,
+    "open_issues_count": 36,
+    "forks_count": 1523
   },
   {
     "full_name": "imartinez/privateGPT",
-    "stargazers_count": 38061,
-    "open_issues_count": 498,
-    "forks_count": 4974
+    "stargazers_count": 38190,
+    "open_issues_count": 499,
+    "forks_count": 4994
   },
   {
     "full_name": "nHapiNET/nHapi",
@@ -151,32 +151,32 @@
   },
   {
     "full_name": "themesberg/landwind",
-    "stargazers_count": 491,
+    "stargazers_count": 493,
     "open_issues_count": 2,
-    "forks_count": 94
+    "forks_count": 95
   },
   {
     "full_name": "georgia-tech-db/evadb",
-    "stargazers_count": 2332,
-    "open_issues_count": 65,
-    "forks_count": 191
+    "stargazers_count": 2340,
+    "open_issues_count": 70,
+    "forks_count": 192
   },
   {
     "full_name": "biobootloader/wolverine",
-    "stargazers_count": 5208,
+    "stargazers_count": 5210,
     "open_issues_count": 28,
     "forks_count": 531
   },
   {
     "full_name": "lucia-auth/lucia",
-    "stargazers_count": 3618,
-    "open_issues_count": 25,
-    "forks_count": 311
+    "stargazers_count": 3665,
+    "open_issues_count": 26,
+    "forks_count": 312
   },
   {
     "full_name": "ampproject/amphtml",
     "stargazers_count": 14913,
-    "open_issues_count": 1007,
+    "open_issues_count": 990,
     "forks_count": 4092
   }
 ]
