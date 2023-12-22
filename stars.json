@@ -7,99 +7,99 @@
   },
   {
     "full_name": "benweet/stackedit",
-    "stargazers_count": 20959,
+    "stargazers_count": 20976,
     "open_issues_count": 682,
-    "forks_count": 2740
+    "forks_count": 2741
   },
   {
     "full_name": "pydantic/pydantic",
-    "stargazers_count": 16918,
-    "open_issues_count": 308,
-    "forks_count": 1547
+    "stargazers_count": 16960,
+    "open_issues_count": 313,
+    "forks_count": 1552
   },
   {
     "full_name": "pola-rs/polars",
-    "stargazers_count": 22359,
-    "open_issues_count": 1278,
-    "forks_count": 1301
+    "stargazers_count": 22428,
+    "open_issues_count": 1311,
+    "forks_count": 1309
   },
   {
     "full_name": "WebDevSimplified/Learn-SQL",
     "stargazers_count": 1050,
     "open_issues_count": 16,
-    "forks_count": 606
+    "forks_count": 607
   },
   {
     "full_name": "nostr-protocol/nostr",
-    "stargazers_count": 9082,
+    "stargazers_count": 9101,
     "open_issues_count": 55,
     "forks_count": 297
   },
   {
     "full_name": "ByteByteGoHq/system-design-101",
-    "stargazers_count": 49808,
-    "open_issues_count": 28,
-    "forks_count": 4953
+    "stargazers_count": 49949,
+    "open_issues_count": 32,
+    "forks_count": 4987
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 260742,
-    "open_issues_count": 825,
-    "forks_count": 35885
+    "stargazers_count": 261011,
+    "open_issues_count": 835,
+    "forks_count": 35916
   },
   {
     "full_name": "EbookFoundation/free-programming-books",
-    "stargazers_count": 304943,
-    "open_issues_count": 45,
-    "forks_count": 58798
+    "stargazers_count": 305152,
+    "open_issues_count": 43,
+    "forks_count": 58831
   },
   {
     "full_name": "ZachGoldberg/Startup-CTO-Handbook",
-    "stargazers_count": 9437,
+    "stargazers_count": 9462,
     "open_issues_count": 4,
-    "forks_count": 436
+    "forks_count": 440
   },
   {
     "full_name": "makeplane/plane",
-    "stargazers_count": 20897,
-    "open_issues_count": 234,
-    "forks_count": 1097
+    "stargazers_count": 21069,
+    "open_issues_count": 242,
+    "forks_count": 1111
   },
   {
     "full_name": "chakra-ui/chakra-ui",
-    "stargazers_count": 35202,
-    "open_issues_count": 277,
+    "stargazers_count": 35239,
+    "open_issues_count": 278,
     "forks_count": 3108
   },
   {
     "full_name": "wasp-lang/wasp",
-    "stargazers_count": 8679,
-    "open_issues_count": 376,
-    "forks_count": 1039
+    "stargazers_count": 8720,
+    "open_issues_count": 383,
+    "forks_count": 1041
   },
   {
     "full_name": "ryanburgess/engineer-manager",
-    "stargazers_count": 10200,
+    "stargazers_count": 10204,
     "open_issues_count": 4,
-    "forks_count": 623
+    "forks_count": 625
   },
   {
     "full_name": "awesome-selfhosted/awesome-selfhosted",
-    "stargazers_count": 161301,
+    "stargazers_count": 161716,
     "open_issues_count": 0,
-    "forks_count": 8879
+    "forks_count": 8902
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 66155,
-    "open_issues_count": 2101,
-    "forks_count": 2149
+    "stargazers_count": 66229,
+    "open_issues_count": 2109,
+    "forks_count": 2163
   },
   {
     "full_name": "jmcarp/nplusone",
-    "stargazers_count": 960,
+    "stargazers_count": 963,
     "open_issues_count": 19,
-    "forks_count": 44
+    "forks_count": 45
   },
   {
     "full_name": "StartBootstrap/startbootstrap-personal",
@@ -129,11 +129,11 @@
     "full_name": "themesberg/tailwind-landing-page",
     "stargazers_count": 84,
     "open_issues_count": 1,
-    "forks_count": 32
+    "forks_count": 33
   },
   {
     "full_name": "bedimcode/responsive-car-website",
-    "stargazers_count": 138,
+    "stargazers_count": 139,
     "open_issues_count": 1,
     "forks_count": 95
   },
@@ -157,25 +157,25 @@
   },
   {
     "full_name": "cruip/open-react-template",
-    "stargazers_count": 3143,
+    "stargazers_count": 3150,
     "open_issues_count": 6,
-    "forks_count": 1497
+    "forks_count": 1501
   },
   {
     "full_name": "Infisical/infisical",
-    "stargazers_count": 10524,
-    "open_issues_count": 256,
+    "stargazers_count": 10566,
+    "open_issues_count": 255,
     "forks_count": 504
   },
   {
     "full_name": "tiangolo/full-stack-fastapi-postgresql",
-    "stargazers_count": 13865,
+    "stargazers_count": 13915,
     "open_issues_count": 228,
-    "forks_count": 2494
+    "forks_count": 2495
   },
   {
     "full_name": "smol-ai/developer",
-    "stargazers_count": 11396,
+    "stargazers_count": 11402,
     "open_issues_count": 79,
     "forks_count": 1110
   }
