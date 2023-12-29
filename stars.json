@@ -7,97 +7,97 @@
   },
   {
     "full_name": "benweet/stackedit",
-    "stargazers_count": 20988,
+    "stargazers_count": 20999,
     "open_issues_count": 682,
-    "forks_count": 2740
+    "forks_count": 2742
   },
   {
     "full_name": "pydantic/pydantic",
-    "stargazers_count": 16995,
-    "open_issues_count": 318,
+    "stargazers_count": 17030,
+    "open_issues_count": 321,
     "forks_count": 1561
   },
   {
     "full_name": "pola-rs/polars",
-    "stargazers_count": 22499,
-    "open_issues_count": 1324,
-    "forks_count": 1312
+    "stargazers_count": 22558,
+    "open_issues_count": 1329,
+    "forks_count": 1317
   },
   {
     "full_name": "WebDevSimplified/Learn-SQL",
-    "stargazers_count": 1049,
+    "stargazers_count": 1052,
     "open_issues_count": 16,
-    "forks_count": 608
+    "forks_count": 610
   },
   {
     "full_name": "nostr-protocol/nostr",
-    "stargazers_count": 9108,
+    "stargazers_count": 9116,
     "open_issues_count": 56,
     "forks_count": 297
   },
   {
     "full_name": "ByteByteGoHq/system-design-101",
-    "stargazers_count": 50079,
-    "open_issues_count": 33,
-    "forks_count": 5010
+    "stargazers_count": 50236,
+    "open_issues_count": 31,
+    "forks_count": 5046
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 261247,
-    "open_issues_count": 851,
-    "forks_count": 35957
+    "stargazers_count": 261486,
+    "open_issues_count": 867,
+    "forks_count": 35980
   },
   {
     "full_name": "EbookFoundation/free-programming-books",
-    "stargazers_count": 305449,
-    "open_issues_count": 44,
-    "forks_count": 58873
+    "stargazers_count": 305698,
+    "open_issues_count": 42,
+    "forks_count": 58897
   },
   {
     "full_name": "ZachGoldberg/Startup-CTO-Handbook",
-    "stargazers_count": 9519,
-    "open_issues_count": 4,
-    "forks_count": 443
+    "stargazers_count": 9549,
+    "open_issues_count": 5,
+    "forks_count": 444
   },
   {
     "full_name": "makeplane/plane",
-    "stargazers_count": 21217,
-    "open_issues_count": 247,
-    "forks_count": 1119
+    "stargazers_count": 21346,
+    "open_issues_count": 253,
+    "forks_count": 1125
   },
   {
     "full_name": "chakra-ui/chakra-ui",
-    "stargazers_count": 35285,
+    "stargazers_count": 35311,
     "open_issues_count": 276,
-    "forks_count": 3110
+    "forks_count": 3111
   },
   {
     "full_name": "wasp-lang/wasp",
-    "stargazers_count": 8766,
+    "stargazers_count": 8800,
     "open_issues_count": 382,
-    "forks_count": 1041
+    "forks_count": 1039
   },
   {
     "full_name": "ryanburgess/engineer-manager",
-    "stargazers_count": 10205,
+    "stargazers_count": 10209,
     "open_issues_count": 4,
-    "forks_count": 625
+    "forks_count": 626
   },
   {
     "full_name": "awesome-selfhosted/awesome-selfhosted",
-    "stargazers_count": 162229,
+    "stargazers_count": 162634,
     "open_issues_count": 0,
-    "forks_count": 8931
+    "forks_count": 8946
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 66311,
-    "open_issues_count": 2133,
-    "forks_count": 2171
+    "stargazers_count": 66394,
+    "open_issues_count": 2154,
+    "forks_count": 2186
   },
   {
     "full_name": "jmcarp/nplusone",
-    "stargazers_count": 964,
+    "stargazers_count": 965,
     "open_issues_count": 19,
     "forks_count": 45
   },
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "themesberg/tailwind-landing-page",
-    "stargazers_count": 84,
+    "stargazers_count": 85,
     "open_issues_count": 1,
     "forks_count": 33
   },
@@ -157,26 +157,26 @@
   },
   {
     "full_name": "cruip/open-react-template",
-    "stargazers_count": 3152,
+    "stargazers_count": 3158,
     "open_issues_count": 6,
-    "forks_count": 1509
+    "forks_count": 1511
   },
   {
     "full_name": "Infisical/infisical",
-    "stargazers_count": 10583,
-    "open_issues_count": 256,
-    "forks_count": 504
+    "stargazers_count": 10611,
+    "open_issues_count": 259,
+    "forks_count": 505
   },
   {
     "full_name": "tiangolo/full-stack-fastapi-postgresql",
-    "stargazers_count": 13951,
+    "stargazers_count": 13996,
     "open_issues_count": 228,
-    "forks_count": 2503
+    "forks_count": 2507
   },
   {
     "full_name": "smol-ai/developer",
-    "stargazers_count": 11417,
+    "stargazers_count": 11424,
     "open_issues_count": 79,
-    "forks_count": 1110
+    "forks_count": 1112
   }
 ]
