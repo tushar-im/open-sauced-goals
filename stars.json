@@ -1,105 +1,105 @@
 [
   {
     "full_name": "Kozea/WeasyPrint",
-    "stargazers_count": 6486,
+    "stargazers_count": 6493,
     "open_issues_count": 185,
-    "forks_count": 637
+    "forks_count": 638
   },
   {
     "full_name": "clauderic/dnd-kit",
-    "stargazers_count": 10893,
-    "open_issues_count": 388,
+    "stargazers_count": 10921,
+    "open_issues_count": 389,
     "forks_count": 568
   },
   {
     "full_name": "systemdesign42/system-design",
-    "stargazers_count": 3640,
+    "stargazers_count": 3702,
     "open_issues_count": 0,
-    "forks_count": 320
+    "forks_count": 326
   },
   {
     "full_name": "litestar-org/litestar",
-    "stargazers_count": 4176,
-    "open_issues_count": 140,
-    "forks_count": 312
+    "stargazers_count": 4198,
+    "open_issues_count": 145,
+    "forks_count": 315
   },
   {
     "full_name": "vpavlenko/study-music",
-    "stargazers_count": 1606,
+    "stargazers_count": 1609,
     "open_issues_count": 0,
     "forks_count": 56
   },
   {
     "full_name": "tsiege/Tech-Interview-Cheat-Sheet",
-    "stargazers_count": 3933,
+    "stargazers_count": 3940,
     "open_issues_count": 12,
     "forks_count": 941
   },
   {
     "full_name": "donnemartin/interactive-coding-challenges",
-    "stargazers_count": 28484,
+    "stargazers_count": 28500,
     "open_issues_count": 74,
     "forks_count": 4364
   },
   {
     "full_name": "CodingChallegesFYI/SharedSolutions",
-    "stargazers_count": 973,
-    "open_issues_count": 13,
-    "forks_count": 285
+    "stargazers_count": 977,
+    "open_issues_count": 7,
+    "forks_count": 289
   },
   {
     "full_name": "creativetimofficial/astro-launch-ui",
-    "stargazers_count": 45,
+    "stargazers_count": 47,
     "open_issues_count": 0,
     "forks_count": 67
   },
   {
     "full_name": "dariubs/GoBooks",
-    "stargazers_count": 15716,
+    "stargazers_count": 15732,
     "open_issues_count": 1,
-    "forks_count": 1989
+    "forks_count": 1990
   },
   {
     "full_name": "spf13/cobra",
-    "stargazers_count": 35374,
-    "open_issues_count": 264,
-    "forks_count": 2767
+    "stargazers_count": 35412,
+    "open_issues_count": 266,
+    "forks_count": 2770
   },
   {
     "full_name": "HackSoftware/Django-Styleguide",
-    "stargazers_count": 4455,
+    "stargazers_count": 4458,
     "open_issues_count": 5,
-    "forks_count": 468
+    "forks_count": 469
   },
   {
     "full_name": "onwidget/astrowind",
-    "stargazers_count": 2090,
-    "open_issues_count": 3,
-    "forks_count": 592
+    "stargazers_count": 2106,
+    "open_issues_count": 4,
+    "forks_count": 602
   },
   {
     "full_name": "lllyasviel/Fooocus",
-    "stargazers_count": 32119,
-    "open_issues_count": 207,
-    "forks_count": 3682
+    "stargazers_count": 32315,
+    "open_issues_count": 212,
+    "forks_count": 3713
   },
   {
     "full_name": "openai/triton",
-    "stargazers_count": 10156,
-    "open_issues_count": 480,
-    "forks_count": 1141
+    "stargazers_count": 10218,
+    "open_issues_count": 485,
+    "forks_count": 1152
   },
   {
     "full_name": "openai/openai-python",
-    "stargazers_count": 18802,
-    "open_issues_count": 39,
-    "forks_count": 2475
+    "stargazers_count": 18882,
+    "open_issues_count": 37,
+    "forks_count": 2493
   },
   {
     "full_name": "openai/openai-cookbook",
-    "stargazers_count": 54424,
-    "open_issues_count": 64,
-    "forks_count": 8533
+    "stargazers_count": 54510,
+    "open_issues_count": 61,
+    "forks_count": 8547
   },
   {
     "full_name": "a8hok/Python-Study-Guide",
@@ -109,74 +109,74 @@
   },
   {
     "full_name": "benweet/stackedit",
-    "stargazers_count": 21177,
+    "stargazers_count": 21188,
     "open_issues_count": 683,
-    "forks_count": 2684
+    "forks_count": 2683
   },
   {
     "full_name": "pydantic/pydantic",
-    "stargazers_count": 17886,
-    "open_issues_count": 332,
-    "forks_count": 1574
+    "stargazers_count": 17939,
+    "open_issues_count": 338,
+    "forks_count": 1575
   },
   {
     "full_name": "pola-rs/polars",
-    "stargazers_count": 24660,
-    "open_issues_count": 1422,
-    "forks_count": 1456
+    "stargazers_count": 24731,
+    "open_issues_count": 1445,
+    "forks_count": 1463
   },
   {
     "full_name": "WebDevSimplified/Learn-SQL",
-    "stargazers_count": 1100,
+    "stargazers_count": 1102,
     "open_issues_count": 17,
     "forks_count": 619
   },
   {
     "full_name": "nostr-protocol/nostr",
-    "stargazers_count": 9314,
+    "stargazers_count": 9326,
     "open_issues_count": 61,
     "forks_count": 295
   },
   {
     "full_name": "ByteByteGoHq/system-design-101",
-    "stargazers_count": 55319,
+    "stargazers_count": 55464,
     "open_issues_count": 35,
-    "forks_count": 5552
+    "forks_count": 5565
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 267947,
-    "open_issues_count": 1007,
-    "forks_count": 36325
+    "stargazers_count": 268187,
+    "open_issues_count": 1021,
+    "forks_count": 36346
   },
   {
     "full_name": "EbookFoundation/free-programming-books",
-    "stargazers_count": 314433,
-    "open_issues_count": 39,
-    "forks_count": 59305
+    "stargazers_count": 314774,
+    "open_issues_count": 41,
+    "forks_count": 59325
   },
   {
     "full_name": "ZachGoldberg/Startup-CTO-Handbook",
-    "stargazers_count": 9800,
-    "open_issues_count": 7,
-    "forks_count": 456
+    "stargazers_count": 9806,
+    "open_issues_count": 6,
+    "forks_count": 457
   },
   {
     "full_name": "makeplane/plane",
-    "stargazers_count": 22935,
-    "open_issues_count": 342,
-    "forks_count": 1139
+    "stargazers_count": 23019,
+    "open_issues_count": 325,
+    "forks_count": 1147
   },
   {
     "full_name": "chakra-ui/chakra-ui",
-    "stargazers_count": 36117,
-    "open_issues_count": 298,
-    "forks_count": 3106
+    "stargazers_count": 36146,
+    "open_issues_count": 299,
+    "forks_count": 3107
   },
   {
     "full_name": "wasp-lang/wasp",
-    "stargazers_count": 9803,
-    "open_issues_count": 422,
-    "forks_count": 1036
+    "stargazers_count": 10278,
+    "open_issues_count": 432,
+    "forks_count": 1046
   }
 ]
