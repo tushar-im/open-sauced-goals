@@ -1,57 +1,69 @@
 [
   {
-    "full_name": "gregorojstersek/resources-to-become-a-great-engineering-leader",
-    "stargazers_count": 1662,
+    "full_name": "daveprowse/tac-course",
+    "stargazers_count": 39,
     "open_issues_count": 0,
-    "forks_count": 198
+    "forks_count": 52
+  },
+  {
+    "full_name": "bmuschko/cta-crash-course",
+    "stargazers_count": 62,
+    "open_issues_count": 0,
+    "forks_count": 83
+  },
+  {
+    "full_name": "gregorojstersek/resources-to-become-a-great-engineering-leader",
+    "stargazers_count": 1765,
+    "open_issues_count": 0,
+    "forks_count": 203
   },
   {
     "full_name": "jordan-cutler/path-to-senior-engineer-handbook",
-    "stargazers_count": 9631,
+    "stargazers_count": 9947,
     "open_issues_count": 1,
-    "forks_count": 923
+    "forks_count": 937
   },
   {
     "full_name": "otoyo/astro-notion-blog",
-    "stargazers_count": 621,
+    "stargazers_count": 624,
     "open_issues_count": 0,
-    "forks_count": 407
+    "forks_count": 412
   },
   {
     "full_name": "yangshun/tech-interview-handbook",
-    "stargazers_count": 110158,
+    "stargazers_count": 110717,
     "open_issues_count": 37,
-    "forks_count": 13862
+    "forks_count": 13963
   },
   {
     "full_name": "trekhleb/javascript-algorithms",
-    "stargazers_count": 182860,
+    "stargazers_count": 182940,
     "open_issues_count": 348,
-    "forks_count": 29532
+    "forks_count": 29553
   },
   {
     "full_name": "yangshun/front-end-interview-handbook",
-    "stargazers_count": 40327,
+    "stargazers_count": 40341,
     "open_issues_count": 15,
-    "forks_count": 5657
+    "forks_count": 5656
   },
   {
     "full_name": "DopplerHQ/awesome-interview-questions",
-    "stargazers_count": 67255,
+    "stargazers_count": 67316,
     "open_issues_count": 49,
-    "forks_count": 8662
+    "forks_count": 8666
   },
   {
     "full_name": "DenverCoder1/readme-typing-svg",
-    "stargazers_count": 4681,
+    "stargazers_count": 4705,
     "open_issues_count": 24,
-    "forks_count": 726
+    "forks_count": 731
   },
   {
     "full_name": "Zettlr/Zettlr",
-    "stargazers_count": 9626,
+    "stargazers_count": 9629,
     "open_issues_count": 371,
-    "forks_count": 589
+    "forks_count": 591
   },
   {
     "full_name": "PacktPublishing/Learn-Go-in-3-Hours",
@@ -61,99 +73,99 @@
   },
   {
     "full_name": "TheAlgorithms/Go",
-    "stargazers_count": 14532,
+    "stargazers_count": 14555,
     "open_issues_count": 9,
-    "forks_count": 2454
+    "forks_count": 2459
   },
   {
     "full_name": "gin-gonic/gin",
-    "stargazers_count": 75556,
-    "open_issues_count": 777,
-    "forks_count": 7837
+    "stargazers_count": 75588,
+    "open_issues_count": 779,
+    "forks_count": 7835
   },
   {
     "full_name": "srleom/astro-theme-resume",
-    "stargazers_count": 36,
+    "stargazers_count": 37,
     "open_issues_count": 0,
     "forks_count": 9
   },
   {
     "full_name": "marktext/marktext",
-    "stargazers_count": 44735,
-    "open_issues_count": 1145,
+    "stargazers_count": 44762,
+    "open_issues_count": 1147,
     "forks_count": 3353
   },
   {
     "full_name": "nazrulworld/fhir.resources",
-    "stargazers_count": 331,
+    "stargazers_count": 332,
     "open_issues_count": 40,
-    "forks_count": 93
+    "forks_count": 94
   },
   {
     "full_name": "rust-lang/rust-by-example",
-    "stargazers_count": 6734,
-    "open_issues_count": 53,
+    "stargazers_count": 6739,
+    "open_issues_count": 54,
     "forks_count": 1320
   },
   {
     "full_name": "rust-lang/rustlings",
-    "stargazers_count": 49308,
+    "stargazers_count": 49397,
     "open_issues_count": 91,
-    "forks_count": 9390
+    "forks_count": 9416
   },
   {
     "full_name": "xai-org/grok-1",
-    "stargazers_count": 48040,
-    "open_issues_count": 81,
-    "forks_count": 8117
+    "stargazers_count": 48127,
+    "open_issues_count": 83,
+    "forks_count": 8144
   },
   {
     "full_name": "Kozea/WeasyPrint",
-    "stargazers_count": 6647,
-    "open_issues_count": 189,
-    "forks_count": 643
+    "stargazers_count": 6652,
+    "open_issues_count": 191,
+    "forks_count": 644
   },
   {
     "full_name": "clauderic/dnd-kit",
-    "stargazers_count": 11396,
-    "open_issues_count": 408,
+    "stargazers_count": 11418,
+    "open_issues_count": 412,
     "forks_count": 581
   },
   {
     "full_name": "systemdesign42/system-design",
-    "stargazers_count": 7983,
+    "stargazers_count": 8151,
     "open_issues_count": 0,
-    "forks_count": 789
+    "forks_count": 807
   },
   {
     "full_name": "litestar-org/litestar",
-    "stargazers_count": 4455,
-    "open_issues_count": 153,
+    "stargazers_count": 4469,
+    "open_issues_count": 156,
     "forks_count": 323
   },
   {
     "full_name": "vpavlenko/study-music",
-    "stargazers_count": 1658,
+    "stargazers_count": 1663,
     "open_issues_count": 0,
-    "forks_count": 59
+    "forks_count": 58
   },
   {
     "full_name": "tsiege/Tech-Interview-Cheat-Sheet",
-    "stargazers_count": 3991,
+    "stargazers_count": 3996,
     "open_issues_count": 12,
     "forks_count": 944
   },
   {
     "full_name": "donnemartin/interactive-coding-challenges",
-    "stargazers_count": 28782,
+    "stargazers_count": 28795,
     "open_issues_count": 75,
-    "forks_count": 4391
+    "forks_count": 4389
   },
   {
     "full_name": "CodingChallengesFYI/SharedSolutions",
-    "stargazers_count": 1189,
+    "stargazers_count": 1291,
     "open_issues_count": 18,
-    "forks_count": 348
+    "forks_count": 356
   },
   {
     "full_name": "creativetimofficial/astro-launch-ui",
@@ -163,20 +175,8 @@
   },
   {
     "full_name": "dariubs/GoBooks",
-    "stargazers_count": 16032,
+    "stargazers_count": 16040,
     "open_issues_count": 1,
-    "forks_count": 2022
-  },
-  {
-    "full_name": "spf13/cobra",
-    "stargazers_count": 36036,
-    "open_issues_count": 271,
-    "forks_count": 2783
-  },
-  {
-    "full_name": "HackSoftware/Django-Styleguide",
-    "stargazers_count": 4585,
-    "open_issues_count": 6,
-    "forks_count": 477
+    "forks_count": 2025
   }
 ]
