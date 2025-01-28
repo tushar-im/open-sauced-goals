@@ -1,39 +1,39 @@
 [
   {
     "full_name": "browser-use/web-ui",
-    "stargazers_count": 3301,
-    "open_issues_count": 59,
-    "forks_count": 455
+    "stargazers_count": 4337,
+    "open_issues_count": 85,
+    "forks_count": 616
   },
   {
     "full_name": "kamranahmedse/git-standup",
-    "stargazers_count": 7667,
+    "stargazers_count": 7669,
     "open_issues_count": 24,
     "forks_count": 309
   },
   {
     "full_name": "Doriandarko/deepseek-engineer",
-    "stargazers_count": 773,
-    "open_issues_count": 6,
-    "forks_count": 137
+    "stargazers_count": 873,
+    "open_issues_count": 8,
+    "forks_count": 159
   },
   {
     "full_name": "nicbarker/clay",
-    "stargazers_count": 10328,
+    "stargazers_count": 10428,
     "open_issues_count": 80,
-    "forks_count": 360
+    "forks_count": 364
   },
   {
     "full_name": "simonw/llm",
-    "stargazers_count": 5675,
-    "open_issues_count": 277,
-    "forks_count": 320
+    "stargazers_count": 5722,
+    "open_issues_count": 282,
+    "forks_count": 326
   },
   {
     "full_name": "Mozilla-Ocho/llamafile",
-    "stargazers_count": 21344,
-    "open_issues_count": 170,
-    "forks_count": 1103
+    "stargazers_count": 21407,
+    "open_issues_count": 171,
+    "forks_count": 1108
   },
   {
     "full_name": "umermansoor/microservices",
@@ -43,15 +43,15 @@
   },
   {
     "full_name": "huggingface/chat-ui",
-    "stargazers_count": 7934,
-    "open_issues_count": 294,
-    "forks_count": 1172
+    "stargazers_count": 7965,
+    "open_issues_count": 295,
+    "forks_count": 1174
   },
   {
     "full_name": "ml-explore/mlx",
-    "stargazers_count": 18491,
-    "open_issues_count": 115,
-    "forks_count": 1062
+    "stargazers_count": 18586,
+    "open_issues_count": 119,
+    "forks_count": 1070
   },
   {
     "full_name": "watevadafa/engineer-manager-resources",
@@ -73,20 +73,20 @@
   },
   {
     "full_name": "uikit/uikit",
-    "stargazers_count": 18372,
-    "open_issues_count": 597,
+    "stargazers_count": 18374,
+    "open_issues_count": 599,
     "forks_count": 2328
   },
   {
     "full_name": "pure-css/pure",
-    "stargazers_count": 23643,
-    "open_issues_count": 8,
-    "forks_count": 2474
+    "stargazers_count": 23642,
+    "open_issues_count": 9,
+    "forks_count": 2472
   },
   {
     "full_name": "air-verse/air",
-    "stargazers_count": 19079,
-    "open_issues_count": 156,
+    "stargazers_count": 19121,
+    "open_issues_count": 155,
     "forks_count": 828
   },
   {
@@ -97,25 +97,25 @@
   },
   {
     "full_name": "gofiber/fiber",
-    "stargazers_count": 34748,
-    "open_issues_count": 99,
-    "forks_count": 1705
+    "stargazers_count": 34793,
+    "open_issues_count": 100,
+    "forks_count": 1706
   },
   {
     "full_name": "hcengineering/platform",
-    "stargazers_count": 18536,
+    "stargazers_count": 18625,
     "open_issues_count": 599,
-    "forks_count": 1157
+    "forks_count": 1160
   },
   {
     "full_name": "greatfrontend/awesome-front-end-system-design",
-    "stargazers_count": 7273,
+    "stargazers_count": 7280,
     "open_issues_count": 2,
-    "forks_count": 193
+    "forks_count": 194
   },
   {
     "full_name": "andrablaj/engineering-management-handbook",
-    "stargazers_count": 81,
+    "stargazers_count": 84,
     "open_issues_count": 0,
     "forks_count": 12
   },
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "charlax/engineering-management",
-    "stargazers_count": 7651,
+    "stargazers_count": 7653,
     "open_issues_count": 1,
     "forks_count": 631
   },
@@ -135,23 +135,23 @@
     "full_name": "jesselpalmer/the-engineering-managers-booklist",
     "stargazers_count": 1608,
     "open_issues_count": 0,
-    "forks_count": 168
+    "forks_count": 169
   },
   {
     "full_name": "MarioCarrion/todo-api-microservice-example",
-    "stargazers_count": 1171,
-    "open_issues_count": 7,
+    "stargazers_count": 1174,
+    "open_issues_count": 9,
     "forks_count": 167
   },
   {
     "full_name": "engineering-management/awesome-engineering-management",
-    "stargazers_count": 2238,
+    "stargazers_count": 2242,
     "open_issues_count": 0,
-    "forks_count": 118
+    "forks_count": 117
   },
   {
     "full_name": "nameko/nameko",
-    "stargazers_count": 4727,
+    "stargazers_count": 4728,
     "open_issues_count": 96,
     "forks_count": 471
   },
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "Unleash/unleash",
-    "stargazers_count": 11723,
-    "open_issues_count": 41,
-    "forks_count": 741
+    "stargazers_count": 11735,
+    "open_issues_count": 42,
+    "forks_count": 740
   },
   {
     "full_name": "paperboi/kindle2notion",
-    "stargazers_count": 912,
+    "stargazers_count": 914,
     "open_issues_count": 21,
     "forks_count": 119
   },
   {
     "full_name": "ollama/ollama",
-    "stargazers_count": 109567,
-    "open_issues_count": 1351,
-    "forks_count": 8751
+    "stargazers_count": 111858,
+    "open_issues_count": 1380,
+    "forks_count": 8891
   }
 ]
