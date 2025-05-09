@@ -1,9 +1,27 @@
 [
   {
+    "full_name": "donnemartin/system-design-primer",
+    "stargazers_count": 298724,
+    "open_issues_count": 490,
+    "forks_count": 49588
+  },
+  {
+    "full_name": "microsoft/BitNet",
+    "stargazers_count": 18281,
+    "open_issues_count": 110,
+    "forks_count": 1323
+  },
+  {
+    "full_name": "kilimchoi/engineering-blogs",
+    "stargazers_count": 33028,
+    "open_issues_count": 133,
+    "forks_count": 1757
+  },
+  {
     "full_name": "atlassian/react-beautiful-dnd",
-    "stargazers_count": 33862,
+    "stargazers_count": 33876,
     "open_issues_count": 644,
-    "forks_count": 2717
+    "forks_count": 2716
   },
   {
     "full_name": "tigerabrodi/system-design-architecture-2025-notes",
@@ -13,93 +31,93 @@
   },
   {
     "full_name": "GLips/Figma-Context-MCP",
-    "stargazers_count": 6340,
-    "open_issues_count": 19,
-    "forks_count": 503
+    "stargazers_count": 6514,
+    "open_issues_count": 21,
+    "forks_count": 513
   },
   {
     "full_name": "tadata-org/fastapi_mcp",
-    "stargazers_count": 4337,
+    "stargazers_count": 4498,
     "open_issues_count": 48,
-    "forks_count": 367
+    "forks_count": 376
   },
   {
     "full_name": "opentofu/opentofu",
-    "stargazers_count": 25261,
-    "open_issues_count": 298,
-    "forks_count": 988
+    "stargazers_count": 25306,
+    "open_issues_count": 287,
+    "forks_count": 990
   },
   {
     "full_name": "microsoft/PhiCookBook",
-    "stargazers_count": 3238,
+    "stargazers_count": 3251,
     "open_issues_count": 24,
-    "forks_count": 407
+    "forks_count": 408
   },
   {
     "full_name": "AutomaApp/automa",
-    "stargazers_count": 17403,
-    "open_issues_count": 264,
-    "forks_count": 1890
+    "stargazers_count": 17487,
+    "open_issues_count": 268,
+    "forks_count": 1904
   },
   {
     "full_name": "AppFlowy-IO/AppFlowy",
-    "stargazers_count": 62643,
-    "open_issues_count": 983,
-    "forks_count": 4217
+    "stargazers_count": 62731,
+    "open_issues_count": 988,
+    "forks_count": 4223
   },
   {
     "full_name": "nodeshift/nodejs-reference-architecture",
-    "stargazers_count": 1742,
+    "stargazers_count": 1743,
     "open_issues_count": 12,
     "forks_count": 123
   },
   {
     "full_name": "markhorn-dev/astro-nano",
-    "stargazers_count": 548,
+    "stargazers_count": 552,
     "open_issues_count": 8,
     "forks_count": 205
   },
   {
     "full_name": "adriankarlen/bar.wezterm",
-    "stargazers_count": 138,
-    "open_issues_count": 4,
+    "stargazers_count": 139,
+    "open_issues_count": 2,
     "forks_count": 19
   },
   {
     "full_name": "huggingface/agents-course",
-    "stargazers_count": 17287,
-    "open_issues_count": 53,
-    "forks_count": 1137
+    "stargazers_count": 18008,
+    "open_issues_count": 51,
+    "forks_count": 1171
   },
   {
     "full_name": "e2b-dev/awesome-ai-agents",
-    "stargazers_count": 17593,
+    "stargazers_count": 17690,
     "open_issues_count": 55,
-    "forks_count": 1328
+    "forks_count": 1334
   },
   {
     "full_name": "maaslalani/slides",
-    "stargazers_count": 10604,
+    "stargazers_count": 10612,
     "open_issues_count": 70,
     "forks_count": 286
   },
   {
     "full_name": "elysiajs/elysia",
-    "stargazers_count": 12237,
-    "open_issues_count": 310,
-    "forks_count": 274
+    "stargazers_count": 12271,
+    "open_issues_count": 317,
+    "forks_count": 275
   },
   {
     "full_name": "krishnaik06/Roadmap-To-Learn-Agentic-AI",
-    "stargazers_count": 544,
+    "stargazers_count": 548,
     "open_issues_count": 1,
-    "forks_count": 174
+    "forks_count": 176
   },
   {
     "full_name": "browser-use/web-ui",
-    "stargazers_count": 12757,
-    "open_issues_count": 259,
-    "forks_count": 2090
+    "stargazers_count": 12827,
+    "open_issues_count": 263,
+    "forks_count": 2109
   },
   {
     "full_name": "kamranahmedse/git-standup",
@@ -109,27 +127,27 @@
   },
   {
     "full_name": "Doriandarko/deepseek-engineer",
-    "stargazers_count": 1449,
+    "stargazers_count": 1448,
     "open_issues_count": 9,
     "forks_count": 254
   },
   {
     "full_name": "nicbarker/clay",
-    "stargazers_count": 13802,
-    "open_issues_count": 148,
-    "forks_count": 505
+    "stargazers_count": 13874,
+    "open_issues_count": 151,
+    "forks_count": 509
   },
   {
     "full_name": "simonw/llm",
-    "stargazers_count": 7359,
-    "open_issues_count": 368,
-    "forks_count": 437
+    "stargazers_count": 7407,
+    "open_issues_count": 373,
+    "forks_count": 440
   },
   {
     "full_name": "Mozilla-Ocho/llamafile",
-    "stargazers_count": 22335,
+    "stargazers_count": 22349,
     "open_issues_count": 152,
-    "forks_count": 1171
+    "forks_count": 1172
   },
   {
     "full_name": "umermansoor/microservices",
@@ -139,15 +157,15 @@
   },
   {
     "full_name": "huggingface/chat-ui",
-    "stargazers_count": 8666,
-    "open_issues_count": 331,
-    "forks_count": 1299
+    "stargazers_count": 8680,
+    "open_issues_count": 332,
+    "forks_count": 1302
   },
   {
     "full_name": "ml-explore/mlx",
-    "stargazers_count": 20474,
-    "open_issues_count": 128,
-    "forks_count": 1194
+    "stargazers_count": 20508,
+    "open_issues_count": 131,
+    "forks_count": 1196
   },
   {
     "full_name": "tushar-im/engineer-manager-resources",
@@ -160,23 +178,5 @@
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "tushar-im/resources-to-become-a-great-engineering-leader",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "uikit/uikit",
-    "stargazers_count": 18422,
-    "open_issues_count": 602,
-    "forks_count": 2321
-  },
-  {
-    "full_name": "pure-css/pure",
-    "stargazers_count": 23712,
-    "open_issues_count": 12,
-    "forks_count": 2455
   }
 ]
