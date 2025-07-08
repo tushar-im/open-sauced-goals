@@ -1,33 +1,33 @@
 [
   {
     "full_name": "davidkimai/Context-Engineering",
-    "stargazers_count": 725,
+    "stargazers_count": 1156,
     "open_issues_count": 0,
-    "forks_count": 71
+    "forks_count": 125
   },
   {
     "full_name": "google-gemini/gemini-cli",
-    "stargazers_count": 51661,
-    "open_issues_count": 879,
-    "forks_count": 4432
+    "stargazers_count": 55299,
+    "open_issues_count": 960,
+    "forks_count": 4930
   },
   {
     "full_name": "majesticooss/mintaka",
     "stargazers_count": 68,
     "open_issues_count": 0,
-    "forks_count": 33
+    "forks_count": 32
   },
   {
     "full_name": "windmill-labs/windmill",
-    "stargazers_count": 13935,
-    "open_issues_count": 474,
-    "forks_count": 739
+    "stargazers_count": 13996,
+    "open_issues_count": 472,
+    "forks_count": 741
   },
   {
     "full_name": "huginn/huginn",
-    "stargazers_count": 46612,
+    "stargazers_count": 46652,
     "open_issues_count": 691,
-    "forks_count": 4024
+    "forks_count": 4023
   },
   {
     "full_name": "meetbryce/open-source-slack-ai",
@@ -43,51 +43,51 @@
   },
   {
     "full_name": "zed-industries/zed",
-    "stargazers_count": 62106,
-    "open_issues_count": 2593,
-    "forks_count": 4629
+    "stargazers_count": 62209,
+    "open_issues_count": 2634,
+    "forks_count": 4649
   },
   {
     "full_name": "openai/openai-testing-agent-demo",
-    "stargazers_count": 628,
+    "stargazers_count": 635,
     "open_issues_count": 5,
-    "forks_count": 76
+    "forks_count": 78
   },
   {
     "full_name": "magenta/magenta",
-    "stargazers_count": 19548,
-    "open_issues_count": 425,
-    "forks_count": 3787
+    "stargazers_count": 19549,
+    "open_issues_count": 426,
+    "forks_count": 3789
   },
   {
     "full_name": "akveo/react-native-ui-kitten",
-    "stargazers_count": 10545,
+    "stargazers_count": 10547,
     "open_issues_count": 193,
     "forks_count": 973
   },
   {
     "full_name": "aptabase/aptabase",
-    "stargazers_count": 1385,
+    "stargazers_count": 1388,
     "open_issues_count": 39,
-    "forks_count": 93
+    "forks_count": 95
   },
   {
     "full_name": "ColorlibHQ/AdminLTE",
-    "stargazers_count": 44818,
-    "open_issues_count": 159,
-    "forks_count": 18227
+    "stargazers_count": 44822,
+    "open_issues_count": 160,
+    "forks_count": 18229
   },
   {
     "full_name": "CodeClimbersIO/ebb-app",
     "stargazers_count": 67,
-    "open_issues_count": 2,
+    "open_issues_count": 4,
     "forks_count": 5
   },
   {
     "full_name": "aminalaee/sqladmin",
-    "stargazers_count": 2241,
+    "stargazers_count": 2246,
     "open_issues_count": 88,
-    "forks_count": 233
+    "forks_count": 232
   },
   {
     "full_name": "NHA-ABDM/UHI",
@@ -97,9 +97,9 @@
   },
   {
     "full_name": "mistralai/cookbook",
-    "stargazers_count": 1849,
-    "open_issues_count": 20,
-    "forks_count": 406
+    "stargazers_count": 1855,
+    "open_issues_count": 21,
+    "forks_count": 408
   },
   {
     "full_name": "tushar-im/system-design-architecture-2025-notes",
@@ -109,74 +109,74 @@
   },
   {
     "full_name": "microsoft/ai-agents-for-beginners",
-    "stargazers_count": 28728,
+    "stargazers_count": 29167,
     "open_issues_count": 12,
-    "forks_count": 8077
+    "forks_count": 8257
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 309640,
-    "open_issues_count": 502,
-    "forks_count": 50983
+    "stargazers_count": 310103,
+    "open_issues_count": 506,
+    "forks_count": 51055
   },
   {
     "full_name": "microsoft/BitNet",
-    "stargazers_count": 20419,
-    "open_issues_count": 139,
-    "forks_count": 1527
+    "stargazers_count": 20448,
+    "open_issues_count": 140,
+    "forks_count": 1531
   },
   {
     "full_name": "kilimchoi/engineering-blogs",
-    "stargazers_count": 34588,
-    "open_issues_count": 139,
-    "forks_count": 1817
+    "stargazers_count": 34695,
+    "open_issues_count": 140,
+    "forks_count": 1824
   },
   {
     "full_name": "atlassian/react-beautiful-dnd",
-    "stargazers_count": 33971,
+    "stargazers_count": 33978,
     "open_issues_count": 646,
     "forks_count": 2722
   },
   {
     "full_name": "tigerabrodi/system-design-architecture-2025-notes",
-    "stargazers_count": 21,
+    "stargazers_count": 22,
     "open_issues_count": 0,
     "forks_count": 4
   },
   {
     "full_name": "GLips/Figma-Context-MCP",
-    "stargazers_count": 8799,
-    "open_issues_count": 27,
-    "forks_count": 716
+    "stargazers_count": 8897,
+    "open_issues_count": 29,
+    "forks_count": 724
   },
   {
     "full_name": "tadata-org/fastapi_mcp",
-    "stargazers_count": 6334,
+    "stargazers_count": 6437,
     "open_issues_count": 92,
-    "forks_count": 530
+    "forks_count": 536
   },
   {
     "full_name": "opentofu/opentofu",
-    "stargazers_count": 25865,
+    "stargazers_count": 25894,
     "open_issues_count": 307,
-    "forks_count": 1035
+    "forks_count": 1036
   },
   {
     "full_name": "microsoft/PhiCookBook",
-    "stargazers_count": 3391,
+    "stargazers_count": 3394,
     "open_issues_count": 28,
     "forks_count": 431
   },
   {
     "full_name": "AutomaApp/automa",
-    "stargazers_count": 18969,
-    "open_issues_count": 293,
-    "forks_count": 2042
+    "stargazers_count": 19058,
+    "open_issues_count": 296,
+    "forks_count": 2053
   },
   {
     "full_name": "AppFlowy-IO/AppFlowy",
-    "stargazers_count": 64218,
-    "open_issues_count": 956,
-    "forks_count": 4409
+    "stargazers_count": 64293,
+    "open_issues_count": 961,
+    "forks_count": 4418
   }
 ]
