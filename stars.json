@@ -1,69 +1,69 @@
 [
   {
     "full_name": "stanfordnlp/dspy",
-    "stargazers_count": 27314,
-    "open_issues_count": 249,
-    "forks_count": 2121
+    "stargazers_count": 27457,
+    "open_issues_count": 253,
+    "forks_count": 2139
   },
   {
     "full_name": "KittenML/KittenTTS",
-    "stargazers_count": 7946,
-    "open_issues_count": 65,
-    "forks_count": 371
+    "stargazers_count": 8135,
+    "open_issues_count": 66,
+    "forks_count": 376
   },
   {
     "full_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-    "stargazers_count": 77331,
-    "open_issues_count": 71,
-    "forks_count": 21666
+    "stargazers_count": 78136,
+    "open_issues_count": 75,
+    "forks_count": 21891
   },
   {
     "full_name": "SkyworkAI/SkyReels-V2",
-    "stargazers_count": 4229,
-    "open_issues_count": 48,
-    "forks_count": 530
+    "stargazers_count": 4250,
+    "open_issues_count": 51,
+    "forks_count": 535
   },
   {
     "full_name": "rasbt/LLMs-from-scratch",
-    "stargazers_count": 65065,
+    "stargazers_count": 66845,
     "open_issues_count": 5,
-    "forks_count": 9139
+    "forks_count": 9373
   },
   {
     "full_name": "21st-dev/magic-mcp",
-    "stargazers_count": 3371,
-    "open_issues_count": 13,
-    "forks_count": 225
+    "stargazers_count": 3399,
+    "open_issues_count": 14,
+    "forks_count": 227
   },
   {
     "full_name": "zilliztech/claude-context",
-    "stargazers_count": 2678,
-    "open_issues_count": 28,
-    "forks_count": 224
+    "stargazers_count": 2835,
+    "open_issues_count": 31,
+    "forks_count": 229
   },
   {
     "full_name": "contains-studio/agents",
-    "stargazers_count": 7203,
+    "stargazers_count": 7419,
     "open_issues_count": 9,
-    "forks_count": 1514
+    "forks_count": 1557
   },
   {
     "full_name": "vercel/ai",
-    "stargazers_count": 16836,
-    "open_issues_count": 713,
-    "forks_count": 2761
+    "stargazers_count": 16972,
+    "open_issues_count": 715,
+    "forks_count": 2770
   },
   {
     "full_name": "davidkimai/Context-Engineering",
-    "stargazers_count": 5665,
+    "stargazers_count": 5854,
     "open_issues_count": 0,
-    "forks_count": 608
+    "forks_count": 640
   },
   {
     "full_name": "google-gemini/gemini-cli",
-    "stargazers_count": 70305,
-    "open_issues_count": 1827,
-    "forks_count": 7134
+    "stargazers_count": 71048,
+    "open_issues_count": 1864,
+    "forks_count": 7259
   },
   {
     "full_name": "majesticooss/mintaka",
@@ -73,15 +73,15 @@
   },
   {
     "full_name": "windmill-labs/windmill",
-    "stargazers_count": 14368,
-    "open_issues_count": 501,
+    "stargazers_count": 14388,
+    "open_issues_count": 504,
     "forks_count": 765
   },
   {
     "full_name": "huginn/huginn",
-    "stargazers_count": 47080,
+    "stargazers_count": 47101,
     "open_issues_count": 695,
-    "forks_count": 4055
+    "forks_count": 4054
   },
   {
     "full_name": "meetbryce/open-source-slack-ai",
@@ -91,56 +91,56 @@
   },
   {
     "full_name": "keshikan/DSEG",
-    "stargazers_count": 882,
+    "stargazers_count": 884,
     "open_issues_count": 9,
     "forks_count": 63
   },
   {
     "full_name": "zed-industries/zed",
-    "stargazers_count": 63970,
-    "open_issues_count": 2775,
-    "forks_count": 4943
+    "stargazers_count": 64198,
+    "open_issues_count": 2766,
+    "forks_count": 4979
   },
   {
     "full_name": "openai/openai-testing-agent-demo",
-    "stargazers_count": 672,
+    "stargazers_count": 674,
     "open_issues_count": 7,
     "forks_count": 93
   },
   {
     "full_name": "magenta/magenta",
-    "stargazers_count": 19621,
+    "stargazers_count": 19626,
     "open_issues_count": 426,
     "forks_count": 3792
   },
   {
     "full_name": "akveo/react-native-ui-kitten",
-    "stargazers_count": 10580,
+    "stargazers_count": 10585,
     "open_issues_count": 193,
-    "forks_count": 978
+    "forks_count": 977
   },
   {
     "full_name": "aptabase/aptabase",
-    "stargazers_count": 1430,
+    "stargazers_count": 1432,
     "open_issues_count": 41,
-    "forks_count": 97
+    "forks_count": 96
   },
   {
     "full_name": "ColorlibHQ/AdminLTE",
-    "stargazers_count": 44924,
-    "open_issues_count": 165,
-    "forks_count": 18268
+    "stargazers_count": 44940,
+    "open_issues_count": 167,
+    "forks_count": 18266
   },
   {
     "full_name": "CodeClimbersIO/ebb-app",
     "stargazers_count": 74,
-    "open_issues_count": 5,
+    "open_issues_count": 4,
     "forks_count": 7
   },
   {
     "full_name": "aminalaee/sqladmin",
-    "stargazers_count": 2297,
-    "open_issues_count": 95,
+    "stargazers_count": 2299,
+    "open_issues_count": 97,
     "forks_count": 240
   },
   {
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "microsoft/ai-agents-for-beginners",
-    "stargazers_count": 34522,
-    "open_issues_count": 18,
-    "forks_count": 10722
+    "stargazers_count": 34723,
+    "open_issues_count": 13,
+    "forks_count": 11044
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 316447,
+    "stargazers_count": 316880,
     "open_issues_count": 514,
-    "forks_count": 51844
+    "forks_count": 51893
   },
   {
     "full_name": "microsoft/BitNet",
-    "stargazers_count": 20730,
-    "open_issues_count": 146,
-    "forks_count": 1568
+    "stargazers_count": 20967,
+    "open_issues_count": 147,
+    "forks_count": 1587
   }
 ]
