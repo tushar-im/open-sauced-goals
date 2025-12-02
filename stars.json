@@ -1,15 +1,21 @@
 [
   {
+    "full_name": "MIDRC/Stanford_Penn_MIDRC_Deidentifier",
+    "stargazers_count": 96,
+    "open_issues_count": 6,
+    "forks_count": 16
+  },
+  {
     "full_name": "unjs/unpdf",
-    "stargazers_count": 937,
+    "stargazers_count": 941,
     "open_issues_count": 4,
     "forks_count": 31
   },
   {
     "full_name": "microsoft/presidio",
-    "stargazers_count": 6197,
-    "open_issues_count": 72,
-    "forks_count": 861
+    "stargazers_count": 6243,
+    "open_issues_count": 71,
+    "forks_count": 865
   },
   {
     "full_name": "EkType/Baloo",
@@ -25,21 +31,21 @@
   },
   {
     "full_name": "bchiang7/v4",
-    "stargazers_count": 8124,
+    "stargazers_count": 8125,
     "open_issues_count": 43,
-    "forks_count": 4191
+    "forks_count": 4195
   },
   {
     "full_name": "googleapis/python-genai",
-    "stargazers_count": 2916,
-    "open_issues_count": 361,
-    "forks_count": 667
+    "stargazers_count": 2966,
+    "open_issues_count": 365,
+    "forks_count": 671
   },
   {
     "full_name": "firecrawl/firecrawl",
-    "stargazers_count": 68677,
+    "stargazers_count": 68919,
     "open_issues_count": 137,
-    "forks_count": 5369
+    "forks_count": 5394
   },
   {
     "full_name": "igoyalsamarth/1kit",
@@ -49,49 +55,49 @@
   },
   {
     "full_name": "BloopAI/vibe-kanban",
-    "stargazers_count": 6084,
-    "open_issues_count": 104,
-    "forks_count": 610
+    "stargazers_count": 6113,
+    "open_issues_count": 107,
+    "forks_count": 615
   },
   {
     "full_name": "Julien-cpsn/ATAC",
-    "stargazers_count": 3226,
+    "stargazers_count": 3235,
     "open_issues_count": 17,
     "forks_count": 119
   },
   {
     "full_name": "foss42/apidash",
-    "stargazers_count": 2542,
+    "stargazers_count": 2548,
     "open_issues_count": 83,
-    "forks_count": 596
+    "forks_count": 598
   },
   {
     "full_name": "HKUDS/RAG-Anything",
-    "stargazers_count": 10556,
+    "stargazers_count": 10622,
     "open_issues_count": 89,
-    "forks_count": 1249
+    "forks_count": 1259
   },
   {
     "full_name": "ax-llm/ax",
-    "stargazers_count": 2285,
-    "open_issues_count": 26,
+    "stargazers_count": 2294,
+    "open_issues_count": 23,
     "forks_count": 151
   },
   {
     "full_name": "ChromeDevTools/chrome-devtools-mcp",
-    "stargazers_count": 15490,
-    "open_issues_count": 60,
-    "forks_count": 963
+    "stargazers_count": 15726,
+    "open_issues_count": 64,
+    "forks_count": 975
   },
   {
     "full_name": "openai/tiktoken",
-    "stargazers_count": 16658,
+    "stargazers_count": 16678,
     "open_issues_count": 77,
-    "forks_count": 1314
+    "forks_count": 1321
   },
   {
     "full_name": "magicuidesign/magicui",
-    "stargazers_count": 19560,
+    "stargazers_count": 19583,
     "open_issues_count": 31,
     "forks_count": 885
   },
@@ -103,27 +109,27 @@
   },
   {
     "full_name": "foorilla/allainews_sources",
-    "stargazers_count": 309,
+    "stargazers_count": 310,
     "open_issues_count": 1,
     "forks_count": 45
   },
   {
     "full_name": "ag-ui-protocol/ag-ui",
-    "stargazers_count": 10015,
-    "open_issues_count": 167,
-    "forks_count": 924
+    "stargazers_count": 10097,
+    "open_issues_count": 171,
+    "forks_count": 930
   },
   {
     "full_name": "humanlayer/12-factor-agents",
-    "stargazers_count": 16416,
+    "stargazers_count": 16551,
     "open_issues_count": 16,
-    "forks_count": 1257
+    "forks_count": 1267
   },
   {
     "full_name": "vercel/v0-sdk",
-    "stargazers_count": 384,
-    "open_issues_count": 24,
-    "forks_count": 66
+    "stargazers_count": 386,
+    "open_issues_count": 23,
+    "forks_count": 67
   },
   {
     "full_name": "banditburai/ft-datastar",
@@ -133,50 +139,44 @@
   },
   {
     "full_name": "stanfordnlp/dspy",
-    "stargazers_count": 30305,
-    "open_issues_count": 386,
-    "forks_count": 2435
+    "stargazers_count": 30420,
+    "open_issues_count": 396,
+    "forks_count": 2448
   },
   {
     "full_name": "KittenML/KittenTTS",
-    "stargazers_count": 9160,
+    "stargazers_count": 9176,
     "open_issues_count": 68,
-    "forks_count": 463
+    "forks_count": 464
   },
   {
     "full_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-    "stargazers_count": 98185,
-    "open_issues_count": 102,
-    "forks_count": 26377
+    "stargazers_count": 98830,
+    "open_issues_count": 98,
+    "forks_count": 26528
   },
   {
     "full_name": "SkyworkAI/SkyReels-V2",
-    "stargazers_count": 5042,
-    "open_issues_count": 76,
-    "forks_count": 740
+    "stargazers_count": 5065,
+    "open_issues_count": 77,
+    "forks_count": 747
   },
   {
     "full_name": "rasbt/LLMs-from-scratch",
-    "stargazers_count": 79976,
+    "stargazers_count": 80256,
     "open_issues_count": 1,
-    "forks_count": 11900
+    "forks_count": 11955
   },
   {
     "full_name": "21st-dev/magic-mcp",
-    "stargazers_count": 3963,
+    "stargazers_count": 3975,
     "open_issues_count": 19,
     "forks_count": 265
   },
   {
     "full_name": "zilliztech/claude-context",
-    "stargazers_count": 4575,
-    "open_issues_count": 68,
-    "forks_count": 417
-  },
-  {
-    "full_name": "contains-studio/agents",
-    "stargazers_count": 10084,
-    "open_issues_count": 9,
-    "forks_count": 2133
+    "stargazers_count": 4608,
+    "open_issues_count": 69,
+    "forks_count": 418
   }
 ]
