@@ -1,27 +1,39 @@
 [
   {
+    "full_name": "megh-bari/pattern-craft",
+    "stargazers_count": 2772,
+    "open_issues_count": 33,
+    "forks_count": 213
+  },
+  {
+    "full_name": "Shubhamsaboo/awesome-llm-apps",
+    "stargazers_count": 87954,
+    "open_issues_count": 6,
+    "forks_count": 12580
+  },
+  {
     "full_name": "the-momentum/fhir-mcp-server",
-    "stargazers_count": 50,
+    "stargazers_count": 51,
     "open_issues_count": 6,
     "forks_count": 11
   },
   {
     "full_name": "harvard-edge/cs249r_book",
-    "stargazers_count": 16870,
+    "stargazers_count": 16993,
     "open_issues_count": 34,
-    "forks_count": 1935
+    "forks_count": 1946
   },
   {
     "full_name": "agentskills/agentskills",
-    "stargazers_count": 5266,
-    "open_issues_count": 40,
-    "forks_count": 275
+    "stargazers_count": 5822,
+    "open_issues_count": 43,
+    "forks_count": 299
   },
   {
     "full_name": "openai/skills",
-    "stargazers_count": 1498,
+    "stargazers_count": 1616,
     "open_issues_count": 15,
-    "forks_count": 103
+    "forks_count": 109
   },
   {
     "full_name": "medml/medml",
@@ -31,9 +43,9 @@
   },
   {
     "full_name": "huggingface/candle",
-    "stargazers_count": 19047,
-    "open_issues_count": 577,
-    "forks_count": 1377
+    "stargazers_count": 19076,
+    "open_issues_count": 574,
+    "forks_count": 1381
   },
   {
     "full_name": "MIDRC/Stanford_Penn_MIDRC_Deidentifier",
@@ -43,15 +55,15 @@
   },
   {
     "full_name": "unjs/unpdf",
-    "stargazers_count": 986,
+    "stargazers_count": 989,
     "open_issues_count": 5,
     "forks_count": 33
   },
   {
     "full_name": "microsoft/presidio",
-    "stargazers_count": 6601,
-    "open_issues_count": 73,
-    "forks_count": 903
+    "stargazers_count": 6651,
+    "open_issues_count": 69,
+    "forks_count": 904
   },
   {
     "full_name": "EkType/Baloo",
@@ -67,21 +79,21 @@
   },
   {
     "full_name": "bchiang7/v4",
-    "stargazers_count": 8153,
+    "stargazers_count": 8152,
     "open_issues_count": 44,
-    "forks_count": 4220
+    "forks_count": 4224
   },
   {
     "full_name": "googleapis/python-genai",
-    "stargazers_count": 3187,
-    "open_issues_count": 378,
-    "forks_count": 729
+    "stargazers_count": 3206,
+    "open_issues_count": 382,
+    "forks_count": 732
   },
   {
     "full_name": "firecrawl/firecrawl",
-    "stargazers_count": 74549,
-    "open_issues_count": 143,
-    "forks_count": 5728
+    "stargazers_count": 75162,
+    "open_issues_count": 139,
+    "forks_count": 5751
   },
   {
     "full_name": "igoyalsamarth/1kit",
@@ -91,51 +103,51 @@
   },
   {
     "full_name": "BloopAI/vibe-kanban",
-    "stargazers_count": 15401,
-    "open_issues_count": 244,
-    "forks_count": 1429
+    "stargazers_count": 16376,
+    "open_issues_count": 245,
+    "forks_count": 1514
   },
   {
     "full_name": "Julien-cpsn/ATAC",
-    "stargazers_count": 3374,
+    "stargazers_count": 3380,
     "open_issues_count": 14,
-    "forks_count": 121
+    "forks_count": 122
   },
   {
     "full_name": "foss42/apidash",
-    "stargazers_count": 2630,
-    "open_issues_count": 144,
-    "forks_count": 653
+    "stargazers_count": 2628,
+    "open_issues_count": 130,
+    "forks_count": 657
   },
   {
     "full_name": "HKUDS/RAG-Anything",
-    "stargazers_count": 12064,
-    "open_issues_count": 100,
-    "forks_count": 1441
+    "stargazers_count": 12138,
+    "open_issues_count": 96,
+    "forks_count": 1449
   },
   {
     "full_name": "ax-llm/ax",
-    "stargazers_count": 2363,
+    "stargazers_count": 2364,
     "open_issues_count": 28,
     "forks_count": 153
   },
   {
     "full_name": "ChromeDevTools/chrome-devtools-mcp",
-    "stargazers_count": 20621,
-    "open_issues_count": 75,
-    "forks_count": 1244
+    "stargazers_count": 21155,
+    "open_issues_count": 73,
+    "forks_count": 1270
   },
   {
     "full_name": "openai/tiktoken",
-    "stargazers_count": 16991,
-    "open_issues_count": 83,
-    "forks_count": 1364
+    "stargazers_count": 17014,
+    "open_issues_count": 84,
+    "forks_count": 1362
   },
   {
     "full_name": "magicuidesign/magicui",
-    "stargazers_count": 19869,
-    "open_issues_count": 38,
-    "forks_count": 914
+    "stargazers_count": 19902,
+    "open_issues_count": 35,
+    "forks_count": 916
   },
   {
     "full_name": "rush-studio/augustui",
@@ -145,38 +157,26 @@
   },
   {
     "full_name": "foorilla/allainews_sources",
-    "stargazers_count": 337,
+    "stargazers_count": 339,
     "open_issues_count": 1,
     "forks_count": 47
   },
   {
     "full_name": "ag-ui-protocol/ag-ui",
-    "stargazers_count": 11329,
-    "open_issues_count": 207,
-    "forks_count": 1039
+    "stargazers_count": 11412,
+    "open_issues_count": 209,
+    "forks_count": 1047
   },
   {
     "full_name": "humanlayer/12-factor-agents",
-    "stargazers_count": 17666,
+    "stargazers_count": 17716,
     "open_issues_count": 17,
-    "forks_count": 1350
+    "forks_count": 1355
   },
   {
     "full_name": "vercel/v0-sdk",
-    "stargazers_count": 413,
+    "stargazers_count": 416,
     "open_issues_count": 26,
     "forks_count": 74
-  },
-  {
-    "full_name": "banditburai/ft-datastar",
-    "stargazers_count": 22,
-    "open_issues_count": 1,
-    "forks_count": 5
-  },
-  {
-    "full_name": "stanfordnlp/dspy",
-    "stargazers_count": 31475,
-    "open_issues_count": 439,
-    "forks_count": 2552
   }
 ]
