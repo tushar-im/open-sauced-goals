@@ -1,27 +1,33 @@
 [
   {
+    "full_name": "ace-step/ACE-Step-1.5",
+    "stargazers_count": 8153,
+    "open_issues_count": 151,
+    "forks_count": 928
+  },
+  {
     "full_name": "steveyegge/gastown",
-    "stargazers_count": 12597,
-    "open_issues_count": 202,
-    "forks_count": 1075
+    "stargazers_count": 12839,
+    "open_issues_count": 162,
+    "forks_count": 1117
   },
   {
     "full_name": "pinchtab/pinchtab",
-    "stargazers_count": 7983,
-    "open_issues_count": 13,
-    "forks_count": 596
+    "stargazers_count": 8109,
+    "open_issues_count": 6,
+    "forks_count": 605
   },
   {
     "full_name": "affaan-m/everything-claude-code",
-    "stargazers_count": 88623,
-    "open_issues_count": 61,
-    "forks_count": 11608
+    "stargazers_count": 102425,
+    "open_issues_count": 106,
+    "forks_count": 13341
   },
   {
     "full_name": "RightNow-AI/openfang",
-    "stargazers_count": 15015,
-    "open_issues_count": 56,
-    "forks_count": 1794
+    "stargazers_count": 15369,
+    "open_issues_count": 114,
+    "forks_count": 1860
   },
   {
     "full_name": "agentPritam47/svg-page-transition",
@@ -31,21 +37,21 @@
   },
   {
     "full_name": "mksglu/context-mode",
-    "stargazers_count": 5383,
-    "open_issues_count": 3,
-    "forks_count": 332
+    "stargazers_count": 5769,
+    "open_issues_count": 8,
+    "forks_count": 367
   },
   {
     "full_name": "rozita-hasani/markdown-resume",
-    "stargazers_count": 77,
+    "stargazers_count": 78,
     "open_issues_count": 2,
     "forks_count": 16
   },
   {
     "full_name": "garrytan/gstack",
-    "stargazers_count": 29017,
-    "open_issues_count": 86,
-    "forks_count": 3509
+    "stargazers_count": 42598,
+    "open_issues_count": 188,
+    "forks_count": 5309
   },
   {
     "full_name": "tigerabrodi/kasumi",
@@ -55,45 +61,45 @@
   },
   {
     "full_name": "Arize-ai/phoenix",
-    "stargazers_count": 8939,
-    "open_issues_count": 467,
-    "forks_count": 769
+    "stargazers_count": 9001,
+    "open_issues_count": 476,
+    "forks_count": 771
   },
   {
     "full_name": "tobi/qmd",
-    "stargazers_count": 16196,
-    "open_issues_count": 247,
-    "forks_count": 964
+    "stargazers_count": 16684,
+    "open_issues_count": 256,
+    "forks_count": 998
   },
   {
     "full_name": "raine/claude-history",
-    "stargazers_count": 88,
+    "stargazers_count": 102,
     "open_issues_count": 2,
-    "forks_count": 9
+    "forks_count": 10
   },
   {
     "full_name": "zeroclaw-labs/zeroclaw",
-    "stargazers_count": 28061,
-    "open_issues_count": 287,
-    "forks_count": 3792
+    "stargazers_count": 28563,
+    "open_issues_count": 370,
+    "forks_count": 3928
   },
   {
     "full_name": "google/langextract",
-    "stargazers_count": 34801,
-    "open_issues_count": 136,
-    "forks_count": 2335
+    "stargazers_count": 34863,
+    "open_issues_count": 125,
+    "forks_count": 2344
   },
   {
     "full_name": "snarktank/antfarm",
-    "stargazers_count": 2208,
-    "open_issues_count": 120,
-    "forks_count": 423
+    "stargazers_count": 2257,
+    "open_issues_count": 121,
+    "forks_count": 427
   },
   {
     "full_name": "thedotmack/claude-mem",
-    "stargazers_count": 38485,
-    "open_issues_count": 128,
-    "forks_count": 2785
+    "stargazers_count": 39967,
+    "open_issues_count": 173,
+    "forks_count": 2940
   },
   {
     "full_name": "Aakash-Pandit/patient-appointment-using-AI",
@@ -103,15 +109,15 @@
   },
   {
     "full_name": "vercel-labs/ralph-gpu",
-    "stargazers_count": 56,
-    "open_issues_count": 0,
+    "stargazers_count": 58,
+    "open_issues_count": 1,
     "forks_count": 7
   },
   {
     "full_name": "HKUDS/nanobot",
-    "stargazers_count": 34982,
-    "open_issues_count": 752,
-    "forks_count": 5883
+    "stargazers_count": 35780,
+    "open_issues_count": 769,
+    "forks_count": 6091
   },
   {
     "full_name": "1Mangesh1/hipaa-guardian",
@@ -121,62 +127,56 @@
   },
   {
     "full_name": "anthropics/claude-code-security-review",
-    "stargazers_count": 3880,
+    "stargazers_count": 3965,
     "open_issues_count": 53,
-    "forks_count": 322
+    "forks_count": 334
   },
   {
     "full_name": "openclaw/openclaw",
-    "stargazers_count": 325601,
-    "open_issues_count": 14756,
-    "forks_count": 62902
+    "stargazers_count": 332764,
+    "open_issues_count": 15203,
+    "forks_count": 64849
   },
   {
     "full_name": "VectifyAI/PageIndex",
-    "stargazers_count": 22330,
-    "open_issues_count": 107,
-    "forks_count": 1776
+    "stargazers_count": 22747,
+    "open_issues_count": 100,
+    "forks_count": 1834
   },
   {
     "full_name": "ComposioHQ/awesome-claude-skills",
-    "stargazers_count": 46187,
-    "open_issues_count": 338,
-    "forks_count": 4698
+    "stargazers_count": 47284,
+    "open_issues_count": 370,
+    "forks_count": 4862
   },
   {
     "full_name": "vercel-labs/dev3000",
-    "stargazers_count": 1063,
+    "stargazers_count": 1069,
     "open_issues_count": 2,
-    "forks_count": 62
+    "forks_count": 63
   },
   {
     "full_name": "vercel-labs/agent-skills",
-    "stargazers_count": 23435,
-    "open_issues_count": 100,
-    "forks_count": 2116
+    "stargazers_count": 23706,
+    "open_issues_count": 101,
+    "forks_count": 2148
   },
   {
     "full_name": "megh-bari/pattern-craft",
-    "stargazers_count": 2848,
-    "open_issues_count": 34,
+    "stargazers_count": 2860,
+    "open_issues_count": 33,
     "forks_count": 217
   },
   {
     "full_name": "Shubhamsaboo/awesome-llm-apps",
-    "stargazers_count": 102895,
-    "open_issues_count": 11,
-    "forks_count": 14998
+    "stargazers_count": 103304,
+    "open_issues_count": 2,
+    "forks_count": 15074
   },
   {
     "full_name": "the-momentum/fhir-mcp-server",
-    "stargazers_count": 68,
+    "stargazers_count": 69,
     "open_issues_count": 6,
     "forks_count": 14
-  },
-  {
-    "full_name": "harvard-edge/cs249r_book",
-    "stargazers_count": 22830,
-    "open_issues_count": 50,
-    "forks_count": 2720
   }
 ]
