@@ -13,15 +13,15 @@
   },
   {
     "full_name": "NVIDIA-NeMo/Guardrails",
-    "stargazers_count": 6989,
-    "open_issues_count": 217,
+    "stargazers_count": 7012,
+    "open_issues_count": 213,
     "forks_count": 812
   },
   {
     "full_name": "NVIDIA-NeMo/Speech",
-    "stargazers_count": 18191,
-    "open_issues_count": 284,
-    "forks_count": 3566
+    "stargazers_count": 18313,
+    "open_issues_count": 274,
+    "forks_count": 3589
   },
   {
     "full_name": "01x-in/create-01x-project",
@@ -31,33 +31,33 @@
   },
   {
     "full_name": "anthropics/life-sciences",
-    "stargazers_count": 578,
+    "stargazers_count": 579,
     "open_issues_count": 19,
     "forks_count": 104
   },
   {
     "full_name": "excalidraw/excalidraw",
-    "stargazers_count": 130111,
-    "open_issues_count": 3352,
-    "forks_count": 14935
+    "stargazers_count": 130424,
+    "open_issues_count": 3376,
+    "forks_count": 14989
   },
   {
     "full_name": "AnswerDotAI/ModernBERT",
-    "stargazers_count": 1711,
+    "stargazers_count": 1712,
     "open_issues_count": 65,
-    "forks_count": 143
+    "forks_count": 144
   },
   {
     "full_name": "paullarionov/claude-certified-architect",
-    "stargazers_count": 4546,
+    "stargazers_count": 4601,
     "open_issues_count": 0,
-    "forks_count": 1039
+    "forks_count": 1067
   },
   {
     "full_name": "headroomlabs-ai/headroom",
-    "stargazers_count": 67016,
-    "open_issues_count": 496,
-    "forks_count": 5165
+    "stargazers_count": 67436,
+    "open_issues_count": 533,
+    "forks_count": 5199
   },
   {
     "full_name": "openclaw/clawpatch",
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "rtk-ai/rtk",
-    "stargazers_count": 76840,
-    "open_issues_count": 1985,
-    "forks_count": 4829
+    "stargazers_count": 77300,
+    "open_issues_count": 2053,
+    "forks_count": 4861
   },
   {
     "full_name": "FilledVaccum/rag-evaluation-course",
@@ -85,27 +85,27 @@
   },
   {
     "full_name": "FilledVaccum/NCP-AAI",
-    "stargazers_count": 15,
+    "stargazers_count": 16,
     "open_issues_count": 0,
     "forks_count": 12
   },
   {
     "full_name": "FareedKhan-dev/all-agentic-architectures",
-    "stargazers_count": 4139,
+    "stargazers_count": 4154,
     "open_issues_count": 9,
     "forks_count": 732
   },
   {
     "full_name": "graviraja/MLOps-Basics",
-    "stargazers_count": 8908,
+    "stargazers_count": 8909,
     "open_issues_count": 16,
     "forks_count": 1772
   },
   {
     "full_name": "addyosmani/agent-skills",
-    "stargazers_count": 88831,
-    "open_issues_count": 107,
-    "forks_count": 9519
+    "stargazers_count": 89506,
+    "open_issues_count": 114,
+    "forks_count": 9593
   },
   {
     "full_name": "MateoProjects/RAG-Agents-for-LLM-course",
@@ -115,27 +115,27 @@
   },
   {
     "full_name": "openai/build-hours",
-    "stargazers_count": 839,
+    "stargazers_count": 840,
     "open_issues_count": 3,
     "forks_count": 178
   },
   {
     "full_name": "iOfficeAI/AionUi",
-    "stargazers_count": 32147,
-    "open_issues_count": 826,
-    "forks_count": 3293
+    "stargazers_count": 32256,
+    "open_issues_count": 852,
+    "forks_count": 3313
   },
   {
     "full_name": "mattpocock/skills",
-    "stargazers_count": 226785,
-    "open_issues_count": 375,
-    "forks_count": 19445
+    "stargazers_count": 235522,
+    "open_issues_count": 392,
+    "forks_count": 20069
   },
   {
     "full_name": "NousResearch/hermes-agent",
-    "stargazers_count": 233584,
-    "open_issues_count": 34027,
-    "forks_count": 46815
+    "stargazers_count": 235873,
+    "open_issues_count": 35500,
+    "forks_count": 47593
   },
   {
     "full_name": "Push9828/storeready",
@@ -145,38 +145,38 @@
   },
   {
     "full_name": "quickwit-oss/tantivy",
-    "stargazers_count": 15942,
+    "stargazers_count": 15978,
     "open_issues_count": 445,
-    "forks_count": 976
+    "forks_count": 979
   },
   {
     "full_name": "get-convex/convex-backend",
-    "stargazers_count": 12401,
-    "open_issues_count": 203,
-    "forks_count": 797
+    "stargazers_count": 12425,
+    "open_issues_count": 206,
+    "forks_count": 801
   },
   {
     "full_name": "huggingface/ml-intern",
-    "stargazers_count": 10743,
-    "open_issues_count": 67,
-    "forks_count": 1172
+    "stargazers_count": 10750,
+    "open_issues_count": 68,
+    "forks_count": 1173
   },
   {
     "full_name": "mni-ml/framework",
-    "stargazers_count": 987,
+    "stargazers_count": 994,
     "open_issues_count": 5,
     "forks_count": 129
   },
   {
     "full_name": "multica-ai/multica",
-    "stargazers_count": 47097,
-    "open_issues_count": 1354,
-    "forks_count": 6020
+    "stargazers_count": 47530,
+    "open_issues_count": 1383,
+    "forks_count": 6097
   },
   {
     "full_name": "coteditor/CotEditor",
-    "stargazers_count": 8393,
-    "open_issues_count": 17,
-    "forks_count": 529
+    "stargazers_count": 8409,
+    "open_issues_count": 16,
+    "forks_count": 531
   }
 ]
