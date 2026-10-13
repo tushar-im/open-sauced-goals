@@ -2,32 +2,32 @@
   {
     "full_name": "Enet4/dicom-rs",
     "stargazers_count": 566,
-    "open_issues_count": 73,
+    "open_issues_count": 76,
     "forks_count": 125
   },
   {
     "full_name": "open-slide/open-slide",
-    "stargazers_count": 9101,
+    "stargazers_count": 9222,
     "open_issues_count": 130,
-    "forks_count": 651
+    "forks_count": 664
   },
   {
     "full_name": "NandhaKishorM/laya",
-    "stargazers_count": 31822,
-    "open_issues_count": 95,
-    "forks_count": 2831
+    "stargazers_count": 32627,
+    "open_issues_count": 125,
+    "forks_count": 2917
   },
   {
     "full_name": "github/spec-kit",
-    "stargazers_count": 140531,
-    "open_issues_count": 256,
-    "forks_count": 12582
+    "stargazers_count": 141035,
+    "open_issues_count": 162,
+    "forks_count": 12622
   },
   {
     "full_name": "aerospike/aerospike-server",
-    "stargazers_count": 1381,
+    "stargazers_count": 1382,
     "open_issues_count": 11,
-    "forks_count": 213
+    "forks_count": 214
   },
   {
     "full_name": "amnn-in/glasskit",
@@ -37,15 +37,15 @@
   },
   {
     "full_name": "NVIDIA-NeMo/Guardrails",
-    "stargazers_count": 7268,
-    "open_issues_count": 261,
-    "forks_count": 865
+    "stargazers_count": 7287,
+    "open_issues_count": 262,
+    "forks_count": 866
   },
   {
     "full_name": "NVIDIA-NeMo/Speech",
-    "stargazers_count": 18563,
-    "open_issues_count": 342,
-    "forks_count": 3641
+    "stargazers_count": 18575,
+    "open_issues_count": 341,
+    "forks_count": 3644
   },
   {
     "full_name": "01x-in/create-01x-project",
@@ -55,45 +55,45 @@
   },
   {
     "full_name": "anthropics/life-sciences",
-    "stargazers_count": 615,
+    "stargazers_count": 618,
     "open_issues_count": 20,
-    "forks_count": 110
+    "forks_count": 109
   },
   {
     "full_name": "excalidraw/excalidraw",
-    "stargazers_count": 133527,
-    "open_issues_count": 3250,
-    "forks_count": 15626
+    "stargazers_count": 133762,
+    "open_issues_count": 3270,
+    "forks_count": 15654
   },
   {
     "full_name": "AnswerDotAI/ModernBERT",
-    "stargazers_count": 1764,
+    "stargazers_count": 1768,
     "open_issues_count": 66,
     "forks_count": 148
   },
   {
     "full_name": "paullarionov/claude-certified-architect",
-    "stargazers_count": 4993,
+    "stargazers_count": 5029,
     "open_issues_count": 0,
-    "forks_count": 1179
+    "forks_count": 1200
   },
   {
     "full_name": "headroomlabs-ai/headroom",
-    "stargazers_count": 74787,
-    "open_issues_count": 374,
-    "forks_count": 5799
+    "stargazers_count": 75167,
+    "open_issues_count": 423,
+    "forks_count": 5834
   },
   {
     "full_name": "openclaw/clawpatch",
-    "stargazers_count": 813,
+    "stargazers_count": 815,
     "open_issues_count": 0,
     "forks_count": 121
   },
   {
     "full_name": "rtk-ai/rtk",
-    "stargazers_count": 82729,
-    "open_issues_count": 1518,
-    "forks_count": 5252
+    "stargazers_count": 83155,
+    "open_issues_count": 1511,
+    "forks_count": 5277
   },
   {
     "full_name": "FilledVaccum/rag-evaluation-course",
@@ -115,21 +115,21 @@
   },
   {
     "full_name": "FareedKhan-dev/all-agentic-architectures",
-    "stargazers_count": 4591,
-    "open_issues_count": 11,
-    "forks_count": 775
+    "stargazers_count": 4600,
+    "open_issues_count": 12,
+    "forks_count": 776
   },
   {
     "full_name": "graviraja/MLOps-Basics",
-    "stargazers_count": 8917,
+    "stargazers_count": 8918,
     "open_issues_count": 16,
     "forks_count": 1769
   },
   {
     "full_name": "addyosmani/agent-skills",
-    "stargazers_count": 103510,
-    "open_issues_count": 138,
-    "forks_count": 10832
+    "stargazers_count": 105823,
+    "open_issues_count": 131,
+    "forks_count": 11040
   },
   {
     "full_name": "MateoProjects/RAG-Agents-for-LLM-course",
@@ -141,25 +141,25 @@
     "full_name": "openai/build-hours",
     "stargazers_count": 851,
     "open_issues_count": 5,
-    "forks_count": 182
+    "forks_count": 181
   },
   {
     "full_name": "iOfficeAI/AionUi",
-    "stargazers_count": 33398,
-    "open_issues_count": 938,
-    "forks_count": 3469
+    "stargazers_count": 33480,
+    "open_issues_count": 944,
+    "forks_count": 3475
   },
   {
     "full_name": "mattpocock/skills",
-    "stargazers_count": 281635,
-    "open_issues_count": 165,
-    "forks_count": 23605
+    "stargazers_count": 288532,
+    "open_issues_count": 168,
+    "forks_count": 24225
   },
   {
     "full_name": "NousResearch/hermes-agent",
-    "stargazers_count": 252118,
-    "open_issues_count": 47849,
-    "forks_count": 54407
+    "stargazers_count": 253269,
+    "open_issues_count": 48230,
+    "forks_count": 54900
   },
   {
     "full_name": "Push9828/storeready",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "quickwit-oss/tantivy",
-    "stargazers_count": 16193,
+    "stargazers_count": 16205,
     "open_issues_count": 472,
     "forks_count": 1004
   },
   {
     "full_name": "get-convex/convex-backend",
-    "stargazers_count": 12673,
-    "open_issues_count": 236,
-    "forks_count": 826
+    "stargazers_count": 12689,
+    "open_issues_count": 246,
+    "forks_count": 827
   }
 ]
